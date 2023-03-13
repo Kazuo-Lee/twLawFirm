@@ -1,0 +1,3173 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 17,
+    "credits_used_this_request": 5,
+    "credits_remaining": 108,
+    "credits_reset_at": "2023-03-21T09:11:54.000Z"
+  },
+  "search_parameters": {
+    "search_type": "places",
+    "q": "地政士事務所",
+    "location": "Taipei City,Taiwan",
+    "google_domain": "google.com.tw",
+    "gl": "tw",
+    "hl": "zh-tw",
+    "page": "1",
+    "max_page": "5",
+    "num": "20",
+    "include_html": "false",
+    "engine": "google"
+  },
+  "search_metadata": {
+    "created_at": "2023-03-13T08:41:24.741Z",
+    "processed_at": "2023-03-13T08:42:35.583Z",
+    "total_time_taken": 70.84,
+    "pages": [
+      {
+        "created_at": "2023-03-13T08:41:24.741Z",
+        "processed_at": "2023-03-13T08:41:43.558Z",
+        "total_time_taken": 18.82,
+        "page": "1",
+        "engine_url": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu&tbm=lcl&num=20",
+        "html_url": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei+City%2CTaiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&page=1&max_page=5&num=20&include_html=false&engine=google&output=html",
+        "json_url": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei+City%2CTaiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&page=1&max_page=5&num=20&include_html=false&engine=google&output=json",
+        "location_auto_message": "We have automatically set the 'google_domain', 'gl' and 'hl' parameters to match the supplied location of 'Taipei City,Taiwan'. You can stop this behaviour by setting the 'location_auto' parameter to 'false'.",
+        "num_parameter_message": "'num' parameter has no effect when the 'search_type' parameter is set to 'places'. This is because Google fix the number of Places results to 20 (this is a Google-imposed limitation). You can paginate through Places results using the 'page' parameter, i.e. 'page=1' for page 1, 'page=2' for page 2 etc."
+      },
+      {
+        "created_at": "2023-03-13T08:41:43.559Z",
+        "processed_at": "2023-03-13T08:41:47.174Z",
+        "total_time_taken": 3.62,
+        "page": 2,
+        "engine_url": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu&tbm=lcl&start=20&num=20",
+        "html_url": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei+City%2CTaiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&page=2&max_page=5&num=20&include_html=false&engine=google&output=html",
+        "json_url": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei+City%2CTaiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&page=2&max_page=5&num=20&include_html=false&engine=google&output=json",
+        "location_auto_message": "We have automatically set the 'google_domain', 'gl' and 'hl' parameters to match the supplied location of 'Taipei City,Taiwan'. You can stop this behaviour by setting the 'location_auto' parameter to 'false'.",
+        "num_parameter_message": "'num' parameter has no effect when the 'search_type' parameter is set to 'places'. This is because Google fix the number of Places results to 20 (this is a Google-imposed limitation). You can paginate through Places results using the 'page' parameter, i.e. 'page=1' for page 1, 'page=2' for page 2 etc."
+      },
+      {
+        "created_at": "2023-03-13T08:41:47.175Z",
+        "processed_at": "2023-03-13T08:42:15.773Z",
+        "total_time_taken": 28.6,
+        "page": 3,
+        "engine_url": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu&tbm=lcl&start=40&num=20",
+        "html_url": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei+City%2CTaiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&page=3&max_page=5&num=20&include_html=false&engine=google&output=html",
+        "json_url": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei+City%2CTaiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&page=3&max_page=5&num=20&include_html=false&engine=google&output=json",
+        "location_auto_message": "We have automatically set the 'google_domain', 'gl' and 'hl' parameters to match the supplied location of 'Taipei City,Taiwan'. You can stop this behaviour by setting the 'location_auto' parameter to 'false'.",
+        "num_parameter_message": "'num' parameter has no effect when the 'search_type' parameter is set to 'places'. This is because Google fix the number of Places results to 20 (this is a Google-imposed limitation). You can paginate through Places results using the 'page' parameter, i.e. 'page=1' for page 1, 'page=2' for page 2 etc."
+      },
+      {
+        "created_at": "2023-03-13T08:42:15.773Z",
+        "processed_at": "2023-03-13T08:42:29.968Z",
+        "total_time_taken": 14.2,
+        "page": 4,
+        "engine_url": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu&tbm=lcl&start=60&num=20",
+        "html_url": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei+City%2CTaiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&page=4&max_page=5&num=20&include_html=false&engine=google&output=html",
+        "json_url": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei+City%2CTaiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&page=4&max_page=5&num=20&include_html=false&engine=google&output=json",
+        "location_auto_message": "We have automatically set the 'google_domain', 'gl' and 'hl' parameters to match the supplied location of 'Taipei City,Taiwan'. You can stop this behaviour by setting the 'location_auto' parameter to 'false'.",
+        "num_parameter_message": "'num' parameter has no effect when the 'search_type' parameter is set to 'places'. This is because Google fix the number of Places results to 20 (this is a Google-imposed limitation). You can paginate through Places results using the 'page' parameter, i.e. 'page=1' for page 1, 'page=2' for page 2 etc."
+      },
+      {
+        "created_at": "2023-03-13T08:42:29.968Z",
+        "processed_at": "2023-03-13T08:42:35.583Z",
+        "total_time_taken": 5.62,
+        "page": 5,
+        "engine_url": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu&tbm=lcl&start=80&num=20",
+        "html_url": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei+City%2CTaiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&page=5&max_page=5&num=20&include_html=false&engine=google&output=html",
+        "json_url": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei+City%2CTaiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&page=5&max_page=5&num=20&include_html=false&engine=google&output=json",
+        "location_auto_message": "We have automatically set the 'google_domain', 'gl' and 'hl' parameters to match the supplied location of 'Taipei City,Taiwan'. You can stop this behaviour by setting the 'location_auto' parameter to 'false'.",
+        "num_parameter_message": "'num' parameter has no effect when the 'search_type' parameter is set to 'places'. This is because Google fix the number of Places results to 20 (this is a Google-imposed limitation). You can paginate through Places results using the 'page' parameter, i.e. 'page=1' for page 1, 'page=2' for page 2 etc."
+      }
+    ]
+  },
+  "search_information": {
+    "original_query_yields_zero_results": false,
+    "query_displayed": "地政士事務所",
+    "detected_location": "台灣"
+  },
+  "pagination": {
+    "pages": [
+      {
+        "current": 1,
+        "next": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=xeEOZI-rLKuZptQP2Jma6A4&start=20&sa=N&ved=2ahUKEwjPoY2kwdj9AhWrjIkEHdiMBu0Q8NMDegQIGBAe&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu",
+        "other_pages": [
+          {
+            "page": 2,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=xeEOZI-rLKuZptQP2Jma6A4&start=20&sa=N&ved=2ahUKEwjPoY2kwdj9AhWrjIkEHdiMBu0Q8tMDegQIGBAM&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 3,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=xeEOZI-rLKuZptQP2Jma6A4&start=40&sa=N&ved=2ahUKEwjPoY2kwdj9AhWrjIkEHdiMBu0Q8tMDegQIGBAO&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 4,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=xeEOZI-rLKuZptQP2Jma6A4&start=60&sa=N&ved=2ahUKEwjPoY2kwdj9AhWrjIkEHdiMBu0Q8tMDegQIGBAQ&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 5,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=xeEOZI-rLKuZptQP2Jma6A4&start=80&sa=N&ved=2ahUKEwjPoY2kwdj9AhWrjIkEHdiMBu0Q8tMDegQIGBAS&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 6,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=xeEOZI-rLKuZptQP2Jma6A4&start=100&sa=N&ved=2ahUKEwjPoY2kwdj9AhWrjIkEHdiMBu0Q8tMDegQIGBAU&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 7,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=xeEOZI-rLKuZptQP2Jma6A4&start=120&sa=N&ved=2ahUKEwjPoY2kwdj9AhWrjIkEHdiMBu0Q8tMDegQIGBAW&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 8,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=xeEOZI-rLKuZptQP2Jma6A4&start=140&sa=N&ved=2ahUKEwjPoY2kwdj9AhWrjIkEHdiMBu0Q8tMDegQIGBAY&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 9,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=xeEOZI-rLKuZptQP2Jma6A4&start=160&sa=N&ved=2ahUKEwjPoY2kwdj9AhWrjIkEHdiMBu0Q8tMDegQIGBAa&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 10,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=xeEOZI-rLKuZptQP2Jma6A4&start=180&sa=N&ved=2ahUKEwjPoY2kwdj9AhWrjIkEHdiMBu0Q8tMDegQIGBAc&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          }
+        ],
+        "api_pagination": {
+          "next": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0&page=2",
+          "other_pages": [
+            {
+              "page": 2,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0&page=2"
+            },
+            {
+              "page": 3,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0&page=3"
+            },
+            {
+              "page": 4,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0&page=4"
+            },
+            {
+              "page": 5,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0&page=5"
+            },
+            {
+              "page": 6,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0&page=6"
+            },
+            {
+              "page": 7,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0&page=7"
+            },
+            {
+              "page": 8,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0&page=8"
+            },
+            {
+              "page": 9,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0&page=9"
+            },
+            {
+              "page": 10,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0&page=10"
+            }
+          ]
+        }
+      },
+      {
+        "current": 2,
+        "next": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=yOEOZLyuEfOYptQP0KqisAg&start=40&sa=N&ved=2ahUKEwi8sqmlwdj9AhVzjIkEHVCVCIY4FBDw0wN6BAgYEB0&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu",
+        "other_pages": [
+          {
+            "page": 1,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=yOEOZLyuEfOYptQP0KqisAg&start=0&sa=N&ved=2ahUKEwi8sqmlwdj9AhVzjIkEHVCVCIY4FBDy0wN6BAgYEAo&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 3,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=yOEOZLyuEfOYptQP0KqisAg&start=40&sa=N&ved=2ahUKEwi8sqmlwdj9AhVzjIkEHVCVCIY4FBDy0wN6BAgYEA0&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 4,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=yOEOZLyuEfOYptQP0KqisAg&start=60&sa=N&ved=2ahUKEwi8sqmlwdj9AhVzjIkEHVCVCIY4FBDy0wN6BAgYEA8&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 5,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=yOEOZLyuEfOYptQP0KqisAg&start=80&sa=N&ved=2ahUKEwi8sqmlwdj9AhVzjIkEHVCVCIY4FBDy0wN6BAgYEBE&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 6,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=yOEOZLyuEfOYptQP0KqisAg&start=100&sa=N&ved=2ahUKEwi8sqmlwdj9AhVzjIkEHVCVCIY4FBDy0wN6BAgYEBM&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 7,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=yOEOZLyuEfOYptQP0KqisAg&start=120&sa=N&ved=2ahUKEwi8sqmlwdj9AhVzjIkEHVCVCIY4FBDy0wN6BAgYEBU&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 8,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=yOEOZLyuEfOYptQP0KqisAg&start=140&sa=N&ved=2ahUKEwi8sqmlwdj9AhVzjIkEHVCVCIY4FBDy0wN6BAgYEBc&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 9,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=yOEOZLyuEfOYptQP0KqisAg&start=160&sa=N&ved=2ahUKEwi8sqmlwdj9AhVzjIkEHVCVCIY4FBDy0wN6BAgYEBk&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 10,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=yOEOZLyuEfOYptQP0KqisAg&start=180&sa=N&ved=2ahUKEwi8sqmlwdj9AhVzjIkEHVCVCIY4FBDy0wN6BAgYEBs&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          }
+        ],
+        "api_pagination": {
+          "next": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0002&page=3",
+          "other_pages": [
+            {
+              "page": 1,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0002&page=1"
+            },
+            {
+              "page": 3,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0002&page=3"
+            },
+            {
+              "page": 4,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0002&page=4"
+            },
+            {
+              "page": 5,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0002&page=5"
+            },
+            {
+              "page": 6,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0002&page=6"
+            },
+            {
+              "page": 7,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0002&page=7"
+            },
+            {
+              "page": 8,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0002&page=8"
+            },
+            {
+              "page": 9,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0002&page=9"
+            },
+            {
+              "page": 10,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0002&page=10"
+            }
+          ]
+        }
+      },
+      {
+        "current": 3,
+        "next": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=5OEOZJLpDtmZkdUPm4-zwA8&start=60&sa=N&ved=2ahUKEwiS69Oywdj9AhXZTKQEHZvHDPg4KBDw0wN6BAgZEB0&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu",
+        "other_pages": [
+          {
+            "page": 1,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=5OEOZJLpDtmZkdUPm4-zwA8&start=0&sa=N&ved=2ahUKEwiS69Oywdj9AhXZTKQEHZvHDPg4KBDy0wN6BAgZEAo&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 2,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=5OEOZJLpDtmZkdUPm4-zwA8&start=20&sa=N&ved=2ahUKEwiS69Oywdj9AhXZTKQEHZvHDPg4KBDy0wN6BAgZEAw&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 4,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=5OEOZJLpDtmZkdUPm4-zwA8&start=60&sa=N&ved=2ahUKEwiS69Oywdj9AhXZTKQEHZvHDPg4KBDy0wN6BAgZEA8&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 5,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=5OEOZJLpDtmZkdUPm4-zwA8&start=80&sa=N&ved=2ahUKEwiS69Oywdj9AhXZTKQEHZvHDPg4KBDy0wN6BAgZEBE&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 6,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=5OEOZJLpDtmZkdUPm4-zwA8&start=100&sa=N&ved=2ahUKEwiS69Oywdj9AhXZTKQEHZvHDPg4KBDy0wN6BAgZEBM&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 7,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=5OEOZJLpDtmZkdUPm4-zwA8&start=120&sa=N&ved=2ahUKEwiS69Oywdj9AhXZTKQEHZvHDPg4KBDy0wN6BAgZEBU&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 8,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=5OEOZJLpDtmZkdUPm4-zwA8&start=140&sa=N&ved=2ahUKEwiS69Oywdj9AhXZTKQEHZvHDPg4KBDy0wN6BAgZEBc&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 9,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=5OEOZJLpDtmZkdUPm4-zwA8&start=160&sa=N&ved=2ahUKEwiS69Oywdj9AhXZTKQEHZvHDPg4KBDy0wN6BAgZEBk&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 10,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=5OEOZJLpDtmZkdUPm4-zwA8&start=180&sa=N&ved=2ahUKEwiS69Oywdj9AhXZTKQEHZvHDPg4KBDy0wN6BAgZEBs&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          }
+        ],
+        "api_pagination": {
+          "next": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0003&page=4",
+          "other_pages": [
+            {
+              "page": 1,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0003&page=1"
+            },
+            {
+              "page": 2,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0003&page=2"
+            },
+            {
+              "page": 4,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0003&page=4"
+            },
+            {
+              "page": 5,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0003&page=5"
+            },
+            {
+              "page": 6,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0003&page=6"
+            },
+            {
+              "page": 7,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0003&page=7"
+            },
+            {
+              "page": 8,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0003&page=8"
+            },
+            {
+              "page": 9,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0003&page=9"
+            },
+            {
+              "page": 10,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0003&page=10"
+            }
+          ]
+        }
+      },
+      {
+        "current": 4,
+        "next": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=8OEOZLe6CfGhptQPma2I6AQ&start=80&sa=N&ved=2ahUKEwi38qq4wdj9AhXxkIkEHZkWAk04PBDw0wN6BAgEEB0&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu",
+        "other_pages": [
+          {
+            "page": 1,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=8OEOZLe6CfGhptQPma2I6AQ&start=0&sa=N&ved=2ahUKEwi38qq4wdj9AhXxkIkEHZkWAk04PBDy0wN6BAgEEAo&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 2,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=8OEOZLe6CfGhptQPma2I6AQ&start=20&sa=N&ved=2ahUKEwi38qq4wdj9AhXxkIkEHZkWAk04PBDy0wN6BAgEEAw&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 3,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=8OEOZLe6CfGhptQPma2I6AQ&start=40&sa=N&ved=2ahUKEwi38qq4wdj9AhXxkIkEHZkWAk04PBDy0wN6BAgEEA4&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 5,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=8OEOZLe6CfGhptQPma2I6AQ&start=80&sa=N&ved=2ahUKEwi38qq4wdj9AhXxkIkEHZkWAk04PBDy0wN6BAgEEBE&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 6,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=8OEOZLe6CfGhptQPma2I6AQ&start=100&sa=N&ved=2ahUKEwi38qq4wdj9AhXxkIkEHZkWAk04PBDy0wN6BAgEEBM&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 7,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=8OEOZLe6CfGhptQPma2I6AQ&start=120&sa=N&ved=2ahUKEwi38qq4wdj9AhXxkIkEHZkWAk04PBDy0wN6BAgEEBU&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 8,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=8OEOZLe6CfGhptQPma2I6AQ&start=140&sa=N&ved=2ahUKEwi38qq4wdj9AhXxkIkEHZkWAk04PBDy0wN6BAgEEBc&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 9,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=8OEOZLe6CfGhptQPma2I6AQ&start=160&sa=N&ved=2ahUKEwi38qq4wdj9AhXxkIkEHZkWAk04PBDy0wN6BAgEEBk&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 10,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=8OEOZLe6CfGhptQPma2I6AQ&start=180&sa=N&ved=2ahUKEwi38qq4wdj9AhXxkIkEHZkWAk04PBDy0wN6BAgEEBs&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          }
+        ],
+        "api_pagination": {
+          "next": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0004&page=5",
+          "other_pages": [
+            {
+              "page": 1,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0004&page=1"
+            },
+            {
+              "page": 2,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0004&page=2"
+            },
+            {
+              "page": 3,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0004&page=3"
+            },
+            {
+              "page": 5,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0004&page=5"
+            },
+            {
+              "page": 6,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0004&page=6"
+            },
+            {
+              "page": 7,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0004&page=7"
+            },
+            {
+              "page": 8,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0004&page=8"
+            },
+            {
+              "page": 9,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0004&page=9"
+            },
+            {
+              "page": 10,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0004&page=10"
+            }
+          ]
+        }
+      },
+      {
+        "current": 5,
+        "next": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=-OEOZN2yFZyKkdUPivWNqAE&start=100&sa=N&ved=2ahUKEwjdjp-8wdj9AhUcRaQEHYp6AxU4UBDw0wN6BAgZEB0&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu",
+        "other_pages": [
+          {
+            "page": 1,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=-OEOZN2yFZyKkdUPivWNqAE&start=0&sa=N&ved=2ahUKEwjdjp-8wdj9AhUcRaQEHYp6AxU4UBDy0wN6BAgZEAo&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 2,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=-OEOZN2yFZyKkdUPivWNqAE&start=20&sa=N&ved=2ahUKEwjdjp-8wdj9AhUcRaQEHYp6AxU4UBDy0wN6BAgZEAw&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 3,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=-OEOZN2yFZyKkdUPivWNqAE&start=40&sa=N&ved=2ahUKEwjdjp-8wdj9AhUcRaQEHYp6AxU4UBDy0wN6BAgZEA4&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 4,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=-OEOZN2yFZyKkdUPivWNqAE&start=60&sa=N&ved=2ahUKEwjdjp-8wdj9AhUcRaQEHYp6AxU4UBDy0wN6BAgZEBA&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 6,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=-OEOZN2yFZyKkdUPivWNqAE&start=100&sa=N&ved=2ahUKEwjdjp-8wdj9AhUcRaQEHYp6AxU4UBDy0wN6BAgZEBM&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 7,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=-OEOZN2yFZyKkdUPivWNqAE&start=120&sa=N&ved=2ahUKEwjdjp-8wdj9AhUcRaQEHYp6AxU4UBDy0wN6BAgZEBU&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 8,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=-OEOZN2yFZyKkdUPivWNqAE&start=140&sa=N&ved=2ahUKEwjdjp-8wdj9AhUcRaQEHYp6AxU4UBDy0wN6BAgZEBc&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 9,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=-OEOZN2yFZyKkdUPivWNqAE&start=160&sa=N&ved=2ahUKEwjdjp-8wdj9AhUcRaQEHYp6AxU4UBDy0wN6BAgZEBk&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 10,
+            "link": "https://www.google.com.tw/search?q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&gl=tw&hl=zh-tw&tbm=lcl&ei=-OEOZN2yFZyKkdUPivWNqAE&start=180&sa=N&ved=2ahUKEwjdjp-8wdj9AhUcRaQEHYp6AxU4UBDy0wN6BAgZEBs&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          }
+        ],
+        "api_pagination": {
+          "next": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0005&page=6",
+          "other_pages": [
+            {
+              "page": 1,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0005&page=1"
+            },
+            {
+              "page": 2,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0005&page=2"
+            },
+            {
+              "page": 3,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0005&page=3"
+            },
+            {
+              "page": 4,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0005&page=4"
+            },
+            {
+              "page": 6,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0005&page=6"
+            },
+            {
+              "page": 7,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0005&page=7"
+            },
+            {
+              "page": 8,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0005&page=8"
+            },
+            {
+              "page": 9,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0005&page=9"
+            },
+            {
+              "page": 10,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&max_page=5&include_html=false&id=req0_0005&page=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "places_results": [
+    {
+      "title": "信銓地政士事務所-陳崧銓代書",
+      "data_cid": "17314515952585925149",
+      "gps_coordinates": {
+        "latitude": 25.010539,
+        "longitude": 121.51475800000001
+      },
+      "sponsored": false,
+      "link": "https://www.google.com.tw/aclk?sa=l&ai=DChcSEwjug5ekwdj9AhXmbm8EHWoTD8QYABAHGgJqZg&sig=AOD64_2WaAaBeBv1Mj6nDgsd6Sm50KB1Cw&q=&ctype=99&ved=2ahUKEwjPoY2kwdj9AhWrjIkEHdiMBu0QhKwBegQIBBAQ&adurl=",
+      "extensions": [
+        "信銓地政士事務所-陳崧銓代書",
+        "5.0(637)",
+        "房地產諮詢公司",
+        "永和區, 新北市",
+        "0930 986 452",
+        "營業中 ⋅ 結束營業時間：18:00",
+        "勤誠地政士事務所-陳彥彰代書        我的廣告中心",
+        "贊助商廣告5.0(801)",
+        "房地產諮詢公司",
+        "永和區, 新北市",
+        "0926 348 348",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "0930 986 452",
+      "rating": 5,
+      "reviews": 637,
+      "category": "房地產諮詢公司",
+      "position": 1,
+      "page": "1",
+      "position_overall": 1
+    },
+    {
+      "title": "信義地政士聯合事務所",
+      "data_cid": "61007234722030263",
+      "data_id": "0x3442abb14843eb3b:0xd8bdc1ba55e2b7",
+      "gps_coordinates": {
+        "latitude": 25.0325636,
+        "longitude": 121.5657993
+      },
+      "address": "110台北市信義區信義路五段100之1號",
+      "sponsored": false,
+      "extensions": [
+        "信義地政士聯合事務所",
+        "沒有評論",
+        "地產公司",
+        "台北市信義區",
+        "02 2729 3088"
+      ],
+      "phone": "02 2729 3088",
+      "position": 2,
+      "page": "1",
+      "position_overall": 2
+    },
+    {
+      "title": "安和地政士事務所",
+      "data_cid": "8033713088067154017",
+      "data_id": "0x3442abc542637ad1:0x6f7d7b7d39a63061",
+      "gps_coordinates": {
+        "latitude": 25.041252,
+        "longitude": 121.54979209999999
+      },
+      "address": "106台北市大安區忠孝東路四段148號樓之2",
+      "sponsored": false,
+      "link": "http://www.anho.com.tw/",
+      "extensions": [
+        "安和地政士事務所",
+        "4.0(4)",
+        "報稅服務",
+        "台北市大安區",
+        "0932 039 476",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "0932 039 476",
+      "rating": 4,
+      "reviews": 4,
+      "category": "報稅服務",
+      "position": 3,
+      "page": "1",
+      "position_overall": 3
+    },
+    {
+      "title": "融德地政士事務所",
+      "data_cid": "7499146052376130579",
+      "data_id": "0x3442abcbee6e94cd:0x6812519a3aa6f413",
+      "gps_coordinates": {
+        "latitude": 25.0517133,
+        "longitude": 121.53616419999999
+      },
+      "address": "10491台北市中山區No7號216號南京東路二段",
+      "sponsored": false,
+      "link": "http://www.longte.com.tw/",
+      "extensions": [
+        "融德地政士事務所",
+        "5.0(15)",
+        "土地註冊處",
+        "台北市中山區",
+        "02 2500 0089",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 2500 0089",
+      "rating": 5,
+      "reviews": 15,
+      "category": "土地註冊處",
+      "position": 4,
+      "page": "1",
+      "position_overall": 4
+    },
+    {
+      "title": "翔嵩地政士事務所",
+      "data_cid": "17320053189533732059",
+      "data_id": "0x3442a967c4094fff:0xf05d309c3d078cdb",
+      "gps_coordinates": {
+        "latitude": 25.054719199999997,
+        "longitude": 121.5265863
+      },
+      "address": "10491台北市中山區長春路78號6樓之2",
+      "sponsored": false,
+      "link": "https://xiang-song.com/index.php",
+      "extensions": [
+        "翔嵩地政士事務所",
+        "4.9(43)",
+        "土地註冊處",
+        "台北市中山區",
+        "02 2562 8687",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 2562 8687",
+      "rating": 4.9,
+      "reviews": 43,
+      "category": "土地註冊處",
+      "position": 5,
+      "page": "1",
+      "position_overall": 5
+    },
+    {
+      "title": "第10名地政士聯合事務所",
+      "data_cid": "2026637820346084376",
+      "data_id": "0x3442abc437e4cfe3:0x1c20105c2a19ac18",
+      "gps_coordinates": {
+        "latitude": 25.044781699999998,
+        "longitude": 121.55444980000001
+      },
+      "address": "105台北市松山區八德路三段106巷65-1號",
+      "sponsored": false,
+      "link": "https://www.facebook.com/best.no10/",
+      "extensions": [
+        "第10名地政士聯合事務所",
+        "4.7(21)",
+        "土地註冊處",
+        "台北市松山區",
+        "02 2578 2200",
+        "營業中 ⋅ 結束營業時間：18:30"
+      ],
+      "phone": "02 2578 2200",
+      "rating": 4.7,
+      "reviews": 21,
+      "category": "土地註冊處",
+      "position": 6,
+      "page": "1",
+      "position_overall": 6
+    },
+    {
+      "title": "永業地政士事務所",
+      "data_cid": "374124693375525515",
+      "data_id": "0x3442a9f2eb976747:0x531286d2a59a28b",
+      "gps_coordinates": {
+        "latitude": 25.031165899999998,
+        "longitude": 121.5045669
+      },
+      "address": "100台北市中正區莒光路105號",
+      "sponsored": false,
+      "link": "https://www.yongye733.com/",
+      "extensions": [
+        "永業地政士事務所",
+        "5.0(3)",
+        "土地註冊處",
+        "台北市中正區",
+        "0920 007 283",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "0920 007 283",
+      "rating": 5,
+      "reviews": 3,
+      "category": "土地註冊處",
+      "position": 7,
+      "page": "1",
+      "position_overall": 7
+    },
+    {
+      "title": "鴻展代書地政士事务所",
+      "data_cid": "7010050408595345331",
+      "data_id": "0x3442a9463e9f0183:0x6148b3b4ade84fb3",
+      "gps_coordinates": {
+        "latitude": 25.0682273,
+        "longitude": 121.51816550000001
+      },
+      "address": "10366台北市大同區承德路三段156號五樓",
+      "sponsored": false,
+      "link": "http://land1688.tp105.com/",
+      "extensions": [
+        "鴻展代書地政士事务所",
+        "4.1(11)",
+        "信託付款服務",
+        "台北市大同區",
+        "02 2597 1709",
+        "營業中 ⋅ 結束營業時間：19:00"
+      ],
+      "phone": "02 2597 1709",
+      "rating": 4.1,
+      "reviews": 11,
+      "category": "信託付款服務",
+      "position": 8,
+      "page": "1",
+      "position_overall": 8
+    },
+    {
+      "title": "金門地政士事務所",
+      "data_cid": "16642884576913024757",
+      "data_id": "0x3442a81e493374df:0xe6f767584cba66f5",
+      "gps_coordinates": {
+        "latitude": 25.0073662,
+        "longitude": 121.4634916
+      },
+      "address": "220新北市板橋區實踐路30號 3樓",
+      "sponsored": false,
+      "link": "http://www.kingmen.com.tw/",
+      "extensions": [
+        "金門地政士事務所",
+        "4.1(83)",
+        "土地註冊處",
+        "新北市板橋區",
+        "02 2955 6966",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 2955 6966",
+      "rating": 4.1,
+      "reviews": 83,
+      "category": "土地註冊處",
+      "position": 9,
+      "page": "1",
+      "position_overall": 9
+    },
+    {
+      "title": "文鼎地政士聯合事務所",
+      "data_cid": "16721516007061119925",
+      "data_id": "0x3442a946ea28c631:0xe80ec236cae2e3b5",
+      "gps_coordinates": {
+        "latitude": 25.0518116,
+        "longitude": 121.53510829999999
+      },
+      "address": "104台北市中山區南京東路二段178號11樓",
+      "sponsored": false,
+      "extensions": [
+        "文鼎地政士聯合事務所",
+        "4.5(11)",
+        "公司註冊處",
+        "台北市中山區",
+        "02 2506 0199",
+        "營業中"
+      ],
+      "phone": "02 2506 0199",
+      "rating": 4.5,
+      "reviews": 11,
+      "category": "公司註冊處",
+      "position": 10,
+      "page": "1",
+      "position_overall": 10
+    },
+    {
+      "title": "中興地政士事務所",
+      "data_cid": "6815316066207780848",
+      "data_id": "0x3442abc19cdc4797:0x5e94ddda6653cff0",
+      "gps_coordinates": {
+        "latitude": 25.040706999999998,
+        "longitude": 121.57517
+      },
+      "address": "110台北市信義區忠孝東路五段412號2號 樓之8",
+      "sponsored": false,
+      "extensions": [
+        "中興地政士事務所",
+        "沒有評論",
+        "房地產顧問",
+        "台北市信義區",
+        "02 2766 6660",
+        "即將打烊 ⋅ 17:30",
+        "門市服務",
+        "線上預約服務"
+      ],
+      "phone": "02 2766 6660",
+      "position": 11,
+      "page": "1",
+      "position_overall": 11
+    },
+    {
+      "title": "博揚地政士事務所(代書)",
+      "data_cid": "17185915171594374831",
+      "data_id": "0x3442aba16015eaff:0xee80a2cb2ee10eaf",
+      "gps_coordinates": {
+        "latitude": 25.040681499999998,
+        "longitude": 121.57705000000001
+      },
+      "address": "110台北市信義區忠孝東路五段472號12樓",
+      "sponsored": false,
+      "link": "https://good123.tw/",
+      "extensions": [
+        "博揚地政士事務所(代書)",
+        "5.0(566)",
+        "房地產顧問",
+        "台北市信義區",
+        "02 8780 3801",
+        "營業中 ⋅ 結束營業時間：21:00",
+        "門市服務",
+        "線上預約服務"
+      ],
+      "phone": "02 8780 3801",
+      "rating": 5,
+      "reviews": 566,
+      "category": "房地產顧問",
+      "position": 12,
+      "page": "1",
+      "position_overall": 12
+    },
+    {
+      "title": "恩典地政士聯合事務所",
+      "data_cid": "8420120283492359828",
+      "data_id": "0x3442aca655555555:0x74da46c93f9f9e94",
+      "gps_coordinates": {
+        "latitude": 25.0269472,
+        "longitude": 121.47655509999998
+      },
+      "address": "220新北市板橋區雙十路二段10-1號號十二樓",
+      "sponsored": false,
+      "link": "https://grace.aland.tw/",
+      "extensions": [
+        "恩典地政士聯合事務所",
+        "5.0(13)",
+        "土地註冊處",
+        "新北市板橋區",
+        "0953 186 577",
+        "營業中 ⋅ 結束營業時間：21:00",
+        "門市服務",
+        "線上預約服務"
+      ],
+      "phone": "0953 186 577",
+      "rating": 5,
+      "reviews": 13,
+      "category": "土地註冊處",
+      "position": 13,
+      "page": "1",
+      "position_overall": 13
+    },
+    {
+      "title": "華星地政士事務所",
+      "data_cid": "6311470293741703645",
+      "data_id": "0x3442abd20cfd3abb:0x5796d8cae4e791dd",
+      "gps_coordinates": {
+        "latitude": 25.034348899999998,
+        "longitude": 121.5478909
+      },
+      "address": "106台北市大安區四維路76巷3號1樓",
+      "sponsored": false,
+      "extensions": [
+        "華星地政士事務所",
+        "5.0(2)",
+        "土地註冊處",
+        "台北市大安區",
+        "02 2700 0268",
+        "即將打烊 ⋅ 17:30"
+      ],
+      "phone": "02 2700 0268",
+      "rating": 5,
+      "reviews": 2,
+      "category": "土地註冊處",
+      "position": 14,
+      "page": "1",
+      "position_overall": 14
+    },
+    {
+      "title": "臺北市松山地政事務所",
+      "data_cid": "16946519092548792523",
+      "data_id": "0x3442abb3828e3dfb:0xeb2e215402bef0cb",
+      "gps_coordinates": {
+        "latitude": 25.0288455,
+        "longitude": 121.5661533
+      },
+      "address": "110台北市信義區莊敬路391巷11弄2號",
+      "sponsored": false,
+      "link": "https://www.ssla.gov.taipei/",
+      "extensions": [
+        "臺北市松山地政事務所",
+        "3.4(77)",
+        "土地註冊處",
+        "台北市信義區",
+        "02 2723 0711",
+        "即將打烊 ⋅ 17:00"
+      ],
+      "phone": "02 2723 0711",
+      "rating": 3.4,
+      "reviews": 77,
+      "category": "土地註冊處",
+      "position": 15,
+      "page": "1",
+      "position_overall": 15
+    },
+    {
+      "title": "佑民地政士事務所",
+      "data_cid": "12870539613564577641",
+      "data_id": "0x3442a945b2b18899:0xb29d5796661c2769",
+      "gps_coordinates": {
+        "latitude": 25.0655443,
+        "longitude": 121.52195999999999
+      },
+      "address": "10491台北市中山區中山北路三段30號號 4 樓 之 5 號",
+      "sponsored": false,
+      "extensions": [
+        "佑民地政士事務所",
+        "5.0(1)",
+        "信託付款服務",
+        "台北市中山區",
+        "02 2598 7651",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 2598 7651",
+      "rating": 5,
+      "reviews": 1,
+      "category": "信託付款服務",
+      "position": 16,
+      "page": "1",
+      "position_overall": 16
+    },
+    {
+      "title": "聯仲地政士事務所",
+      "data_cid": "379059283918881109",
+      "data_id": "0x3442aa4baca99041:0x542b0690ecc8155",
+      "gps_coordinates": {
+        "latitude": 25.023763,
+        "longitude": 121.56271399999999
+      },
+      "address": "110信義區吳興街284巷24弄21號",
+      "sponsored": false,
+      "extensions": [
+        "聯仲地政士事務所",
+        "5.0(1)",
+        "土地註冊處",
+        "信義區",
+        "0920 998 369"
+      ],
+      "phone": "0920 998 369",
+      "rating": 5,
+      "reviews": 1,
+      "category": "土地註冊處",
+      "position": 17,
+      "page": "1",
+      "position_overall": 17
+    },
+    {
+      "title": "禾禮地政士事務所",
+      "data_cid": "8487505216307807361",
+      "data_id": "0x3442abbfe47ad549:0x75c9ad06874d4481",
+      "gps_coordinates": {
+        "latitude": 25.0019851,
+        "longitude": 121.5387044
+      },
+      "address": "116060台北市文山區羅斯福路五段222號2樓",
+      "sponsored": false,
+      "link": "https://heliland.com.tw/",
+      "extensions": [
+        "禾禮地政士事務所",
+        "5.0(24)",
+        "土地註冊處",
+        "台北市文山區",
+        "02 2930 0026",
+        "即將打烊 ⋅ 17:00",
+        "門市服務",
+        "線上預約服務"
+      ],
+      "phone": "02 2930 0026",
+      "rating": 5,
+      "reviews": 24,
+      "category": "土地註冊處",
+      "position": 18,
+      "page": "1",
+      "position_overall": 18
+    },
+    {
+      "title": "政大地政士聯合事務所",
+      "data_cid": "17759674607401088745",
+      "data_id": "0x3442abc88f12c8b1:0xf67709f5ecaab6e9",
+      "gps_coordinates": {
+        "latitude": 25.037344899999997,
+        "longitude": 121.5558369
+      },
+      "address": "106台北市大安區仁愛路四段376號7樓",
+      "sponsored": false,
+      "extensions": [
+        "政大地政士聯合事務所",
+        "5.0(2)",
+        "信託付款服務",
+        "台北市大安區",
+        "02 2752 7727",
+        "即將打烊 ⋅ 17:30"
+      ],
+      "phone": "02 2752 7727",
+      "rating": 5,
+      "reviews": 2,
+      "category": "信託付款服務",
+      "position": 19,
+      "page": "1",
+      "position_overall": 19
+    },
+    {
+      "title": "長愛地政士事務所",
+      "data_cid": "16448070884993435317",
+      "data_id": "0x3442ab1a33ed210d:0xe4434953047a86b5",
+      "gps_coordinates": {
+        "latitude": 25.0514396,
+        "longitude": 121.5534334
+      },
+      "address": "105台北市松山區南京東路四段50號12樓",
+      "sponsored": false,
+      "link": "https://www.facebook.com/%E9%95%B7%E6%84%9B%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80-843393975820324/about/?ref=page_internal",
+      "extensions": [
+        "長愛地政士事務所",
+        "沒有評論",
+        "土地註冊處",
+        "台北市松山區",
+        "02 2577 8277",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 2577 8277",
+      "position": 20,
+      "page": "1",
+      "position_overall": 20
+    },
+    {
+      "title": "天易地政士事務所-朱智豪代書（常現勘請先預約）",
+      "data_cid": "12883755520011970747",
+      "data_id": "0x3442a947296d1c2d:0xb2cc4b62674aa8bb",
+      "gps_coordinates": {
+        "latitude": 25.012708699999997,
+        "longitude": 121.5150838
+      },
+      "address": "234新北市永和區永和路二段147號6樓",
+      "sponsored": false,
+      "link": "http://fb.me/513mvavg",
+      "extensions": [
+        "天易地政士事務所-朱智豪代書（常現勘請先預約）",
+        "5.0(312)",
+        "土地註冊處",
+        "新北市永和區",
+        "0932 455 142",
+        "即將打烊 ⋅ 17:00"
+      ],
+      "phone": "0932 455 142",
+      "rating": 5,
+      "reviews": 312,
+      "category": "土地註冊處",
+      "position": 21,
+      "page": "1",
+      "position_overall": 21
+    },
+    {
+      "title": "信銓地政士事務所-陳崧銓代書",
+      "data_cid": "17314515952585925149",
+      "gps_coordinates": {
+        "latitude": 25.010539,
+        "longitude": 121.51475800000001
+      },
+      "address": "永和區, 新北市",
+      "sponsored": false,
+      "link": "https://www.google.com.tw/aclk?sa=l&ai=DChcSEwiXlLKlwdj9AhXVe28EHVcEC08YABAAGgJqZg&sig=AOD64_1PTgT5mwNwbawND2VlSXiqwbMsYQ&q=&ctype=99&ved=2ahUKEwi8sqmlwdj9AhVzjIkEHVCVCIY4FBCErAF6BAgaEBU&adurl=",
+      "extensions": [
+        "信銓地政士事務所-陳崧銓代書",
+        "5.0(637)",
+        "房地產諮詢公司",
+        "永和區, 新北市",
+        "0930 986 452",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "0930 986 452",
+      "rating": 5,
+      "reviews": 637,
+      "category": "房地產諮詢公司",
+      "position": 1,
+      "page": 2,
+      "position_overall": 22
+    },
+    {
+      "title": "睿治地政士事務所｜葉又睿代書｜不動產經紀人",
+      "data_cid": "11251308256045773604",
+      "data_id": "0x3442ab7952397051:0x9c24ad3f34073324",
+      "gps_coordinates": {
+        "latitude": 25.0248532,
+        "longitude": 121.5533662
+      },
+      "address": "110台北市信義區基隆路二段189號15F",
+      "sponsored": false,
+      "extensions": [
+        "睿治地政士事務所｜葉又睿代書｜不動產經紀人",
+        "5.0(11)",
+        "土地註冊處",
+        "基隆路二段189號15F",
+        "0963 395 090",
+        "營業中 ⋅ 結束營業時間：18:00",
+        "門市服務",
+        "線上預約服務"
+      ],
+      "phone": "0963 395 090",
+      "rating": 5,
+      "reviews": 11,
+      "category": "土地註冊處",
+      "position": 2,
+      "page": 2,
+      "position_overall": 23
+    },
+    {
+      "title": "蔡政諺地政士(代書)事務所",
+      "data_cid": "8714572854961856674",
+      "data_id": "0x3442aba51db1c4ed:0x78f061d6fd4360a2",
+      "gps_coordinates": {
+        "latitude": 25.040789399999998,
+        "longitude": 121.57237219999998
+      },
+      "address": "110台北市信義區忠孝東路五段242號 6樓",
+      "sponsored": false,
+      "extensions": [
+        "蔡政諺地政士(代書)事務所",
+        "5.0(1)",
+        "地產公司",
+        "6樓, No. 242號忠孝東路五段",
+        "02 2722 2085",
+        "營業中 ⋅ 結束營業時間：18:00",
+        "門市服務"
+      ],
+      "phone": "02 2722 2085",
+      "rating": 5,
+      "reviews": 1,
+      "category": "地產公司",
+      "position": 3,
+      "page": 2,
+      "position_overall": 24
+    },
+    {
+      "title": "長安地政士事務所",
+      "data_cid": "12436201061610812767",
+      "data_id": "0x3442a94ed1124695:0xac9642f9c8a5f55f",
+      "gps_coordinates": {
+        "latitude": 25.050223499999998,
+        "longitude": 121.51959099999998
+      },
+      "address": "103台北市大同區長安西路66號",
+      "sponsored": false,
+      "link": "http://www.rajlaw.com.tw/",
+      "extensions": [
+        "長安地政士事務所",
+        "4.6(5)",
+        "律師事務所",
+        "長安西路66號",
+        "02 2559 6908",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 2559 6908",
+      "rating": 4.6,
+      "reviews": 5,
+      "category": "律師事務所",
+      "position": 4,
+      "page": 2,
+      "position_overall": 25
+    },
+    {
+      "title": "臺北市中山地政事務所",
+      "data_cid": "10014351767254059247",
+      "data_id": "0x3442a959b31d94f9:0x8afa1fdfbefbc8ef",
+      "gps_coordinates": {
+        "latitude": 25.0635628,
+        "longitude": 121.53416000000001
+      },
+      "address": "104256台北市中山區松江路357巷1號",
+      "sponsored": false,
+      "link": "https://www.csla.gov.taipei/Default.aspx",
+      "extensions": [
+        "臺北市中山地政事務所",
+        "3.5(86)",
+        "土地註冊處",
+        "松江路357巷1號",
+        "02 2502 2881",
+        "即將打烊 ⋅ 17:00"
+      ],
+      "phone": "02 2502 2881",
+      "rating": 3.5,
+      "reviews": 86,
+      "category": "土地註冊處",
+      "position": 5,
+      "page": 2,
+      "position_overall": 26
+    },
+    {
+      "title": "中悅地政士事務所",
+      "data_cid": "1323720645384081249",
+      "data_id": "0x3442ab4e5386eb09:0x125ecce9e1f80f61",
+      "gps_coordinates": {
+        "latitude": 25.0384449,
+        "longitude": 121.57669899999999
+      },
+      "address": "110台北市信義區松德路65號11號樓之2",
+      "sponsored": false,
+      "extensions": [
+        "中悅地政士事務所",
+        "沒有評論",
+        "土地註冊處",
+        "松德路65號11號樓之2",
+        "02 2727 0515",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 2727 0515",
+      "position": 6,
+      "page": 2,
+      "position_overall": 27
+    },
+    {
+      "title": "毅誠地政士事務所-江漢聲代書(請先來電預約)",
+      "data_cid": "1907822692093510669",
+      "data_id": "0x3442a9993af29f03:0x1a79f2a160a9c40d",
+      "gps_coordinates": {
+        "latitude": 25.0133556,
+        "longitude": 121.4561685
+      },
+      "address": "220新北市板橋區中正路41號3樓",
+      "sponsored": false,
+      "link": "https://land104.com/",
+      "extensions": [
+        "毅誠地政士事務所-江漢聲代書(請先來電預約)",
+        "5.0(130)",
+        "房地產顧問",
+        "中正路41號3樓",
+        "0955 707 096",
+        "營業中 ⋅ 結束營業時間：18:00",
+        "門市服務",
+        "線上預約服務"
+      ],
+      "phone": "0955 707 096",
+      "rating": 5,
+      "reviews": 130,
+      "category": "房地產顧問",
+      "position": 7,
+      "page": 2,
+      "position_overall": 28
+    },
+    {
+      "title": "晉業地政士事務所",
+      "data_cid": "16161825563943716835",
+      "data_id": "0x3442ab98d8a636d7:0xe04a56b8acb147e3",
+      "gps_coordinates": {
+        "latitude": 25.0474651,
+        "longitude": 121.57592379999998
+      },
+      "address": "110台北市信義區虎林街30巷22號",
+      "sponsored": false,
+      "extensions": [
+        "晉業地政士事務所",
+        "沒有評論",
+        "房地產顧問",
+        "虎林街30巷22號",
+        "02 2765 0036"
+      ],
+      "phone": "02 2765 0036",
+      "position": 8,
+      "page": 2,
+      "position_overall": 29
+    },
+    {
+      "title": "中庸地政士事務所(台北聯絡處)-劉緯國地政士-代書|不動產登記|節稅規劃|法律諮詢||大安區||台北信義路",
+      "data_cid": "14770688337864680295",
+      "data_id": "0x3442ab4be14754bb:0xccfc06c8ea6de367",
+      "gps_coordinates": {
+        "latitude": 25.0329977,
+        "longitude": 121.5544765
+      },
+      "address": "106台北市大安區信義路四段296號15樓",
+      "sponsored": false,
+      "link": "https://www.facebook.com/profile.php?id=100086625283639",
+      "extensions": [
+        "中庸地政士事務所(台北聯絡處)-劉緯國地政士-代書|不動產登記|節稅規劃|法律諮詢||大安區||台北信義路",
+        "5.0(77)",
+        "法律服務",
+        "信義路四段296號15樓",
+        "0970 823 586",
+        "營業中 ⋅ 結束營業時間：19:00"
+      ],
+      "phone": "0970 823 586",
+      "rating": 5,
+      "reviews": 77,
+      "category": "法律服務",
+      "position": 9,
+      "page": 2,
+      "position_overall": 30
+    },
+    {
+      "title": "勤誠地政士事務所-陳彥彰代書",
+      "data_cid": "5268720891092308162",
+      "data_id": "0x3468021d507e54bf:0x491e41bc4e3c90c2",
+      "gps_coordinates": {
+        "latitude": 25.0042722,
+        "longitude": 121.51472129999998
+      },
+      "address": "234新北市永和區安樂路272巷2號2樓",
+      "sponsored": false,
+      "link": "https://375-escrow-service.business.site/",
+      "extensions": [
+        "勤誠地政士事務所-陳彥彰代書",
+        "5.0(806)",
+        "房地產顧問",
+        "安樂路272巷2號2樓",
+        "02 2923 6680",
+        "營業中 ⋅ 結束營業時間：18:00",
+        "門市服務",
+        "線上預約服務"
+      ],
+      "phone": "02 2923 6680",
+      "rating": 5,
+      "reviews": 806,
+      "category": "房地產顧問",
+      "position": 10,
+      "page": 2,
+      "position_overall": 31
+    },
+    {
+      "title": "公正地政士聯合事務所",
+      "data_cid": "3815934210730787725",
+      "data_id": "0x3442abd02d219619:0x34f4ebf26cde838d",
+      "gps_coordinates": {
+        "latitude": 25.033608299999997,
+        "longitude": 121.55107120000001
+      },
+      "address": "106台北市大安區信義路四段189號2號樓之3",
+      "sponsored": false,
+      "extensions": [
+        "公正地政士聯合事務所",
+        "沒有評論",
+        "信託付款服務",
+        "信義路四段189號2號樓之3"
+      ],
+      "position": 11,
+      "page": 2,
+      "position_overall": 32
+    },
+    {
+      "title": "林慧地政士事務所",
+      "data_cid": "16974821790416856857",
+      "data_id": "0x3442a9174c864c4d:0xeb92ae7b5f5b6719",
+      "gps_coordinates": {
+        "latitude": 25.0625438,
+        "longitude": 121.52174679999999
+      },
+      "address": "104台北市中山區民權西路20號3號樓之8",
+      "sponsored": false,
+      "link": "https://www.facebook.com/%E6%9E%97%E6%85%A7%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80-311569935943256/",
+      "extensions": [
+        "林慧地政士事務所",
+        "5.0(2)",
+        "土地註冊處",
+        "民權西路20號3號樓之8",
+        "02 2561 2992",
+        "營業中 ⋅ 結束營業時間：18:00",
+        "門市服務"
+      ],
+      "phone": "02 2561 2992",
+      "rating": 5,
+      "reviews": 2,
+      "category": "土地註冊處",
+      "position": 12,
+      "page": 2,
+      "position_overall": 33
+    },
+    {
+      "title": "瑞美地政士事務所",
+      "data_cid": "6742139288752713417",
+      "data_id": "0x3442abb4738ed5d5:0x5d90e3f6344f6ec9",
+      "gps_coordinates": {
+        "latitude": 25.0299329,
+        "longitude": 121.56515409999999
+      },
+      "address": "110台北市信義區松智路36號2樓",
+      "sponsored": false,
+      "extensions": [
+        "瑞美地政士事務所",
+        "沒有評論",
+        "律師",
+        "松智路36號2樓",
+        "02 2720 9622",
+        "即將打烊 ⋅ 17:00"
+      ],
+      "phone": "02 2720 9622",
+      "position": 13,
+      "page": 2,
+      "position_overall": 34
+    },
+    {
+      "title": "正大地政士事務所",
+      "data_cid": "2192625890598893558",
+      "data_id": "0x3442abc023f576b7:0x1e6dc5a16678b7f6",
+      "gps_coordinates": {
+        "latitude": 25.0486614,
+        "longitude": 121.5580547
+      },
+      "address": "105台北市松山區光復北路3號號 3 樓 之 1 號",
+      "sponsored": false,
+      "extensions": [
+        "正大地政士事務所",
+        "5.0(1)",
+        "信託付款服務",
+        "光復北路3號號 3 樓 之 1 號",
+        "02 2528 6665",
+        "即將打烊 ⋅ 17:30"
+      ],
+      "phone": "02 2528 6665",
+      "rating": 5,
+      "reviews": 1,
+      "category": "信託付款服務",
+      "position": 14,
+      "page": 2,
+      "position_overall": 35
+    },
+    {
+      "title": "大新地政士事務所（大新代書）",
+      "data_cid": "3509345610076003833",
+      "data_id": "0x3442a99890e1a421:0x30b3b33d32a81df9",
+      "gps_coordinates": {
+        "latitude": 25.0309858,
+        "longitude": 121.51512770000001
+      },
+      "address": "100台北市中正區重慶南路二段57-2號9F",
+      "sponsored": false,
+      "link": "https://m.facebook.com/daxinclub",
+      "extensions": [
+        "大新地政士事務所（大新代書）",
+        "5.0(2)",
+        "土地註冊處",
+        "重慶南路二段57-2號9F",
+        "02 3393 2246",
+        "即將打烊 ⋅ 17:00"
+      ],
+      "phone": "02 3393 2246",
+      "rating": 5,
+      "reviews": 2,
+      "category": "土地註冊處",
+      "position": 15,
+      "page": 2,
+      "position_overall": 36
+    },
+    {
+      "title": "益民地政士事務所",
+      "data_cid": "2250910814186970735",
+      "data_id": "0x3442aba10dc3f291:0x1f3cd775acb31e6f",
+      "gps_coordinates": {
+        "latitude": 25.0409929,
+        "longitude": 121.57867889999999
+      },
+      "address": "110台北市信義區忠孝東路五段508號4樓",
+      "sponsored": false,
+      "extensions": [
+        "益民地政士事務所",
+        "5.0(1)",
+        "信託付款服務",
+        "忠孝東路五段508號4樓",
+        "02 2507 6577",
+        "營業中"
+      ],
+      "phone": "02 2507 6577",
+      "rating": 5,
+      "reviews": 1,
+      "category": "信託付款服務",
+      "position": 16,
+      "page": 2,
+      "position_overall": 37
+    },
+    {
+      "title": "力信地政士聯合事務所",
+      "data_cid": "1612145816261913442",
+      "data_id": "0x3442abd79bf7908d:0x165f7e14106c6b62",
+      "gps_coordinates": {
+        "latitude": 25.0418885,
+        "longitude": 121.5395217
+      },
+      "address": "106台北市大安區忠孝東路三段211號8樓",
+      "sponsored": false,
+      "extensions": [
+        "力信地政士聯合事務所",
+        "5.0(3)",
+        "信託付款服務",
+        "忠孝東路三段211號8樓",
+        "02 2711 9969"
+      ],
+      "phone": "02 2711 9969",
+      "rating": 5,
+      "reviews": 3,
+      "category": "信託付款服務",
+      "position": 17,
+      "page": 2,
+      "position_overall": 38
+    },
+    {
+      "title": "興富金地政士聯合事務所",
+      "data_cid": "8309060132135314945",
+      "data_id": "0x3442ad2043c721fd:0x734fb62ab9492601",
+      "gps_coordinates": {
+        "latitude": 25.068619899999998,
+        "longitude": 121.59165199999998
+      },
+      "address": "114台北市內湖區民權東路六段160號2樓",
+      "sponsored": false,
+      "link": "https://property-registry-491.business.site/?utm_source=gmb&utm_medium=referral",
+      "extensions": [
+        "興富金地政士聯合事務所",
+        "5.0(11)",
+        "土地註冊處",
+        "民權東路六段160號2樓",
+        "02 2795 5620",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 2795 5620",
+      "rating": 5,
+      "reviews": 11,
+      "category": "土地註冊處",
+      "position": 18,
+      "page": 2,
+      "position_overall": 39
+    },
+    {
+      "title": "義祺地政士聯合事務所",
+      "data_cid": "15679909199708507439",
+      "data_id": "0x3442ab945a22fe07:0xd99a3a5767014d2f",
+      "gps_coordinates": {
+        "latitude": 25.051276599999998,
+        "longitude": 121.56307969999999
+      },
+      "address": "105台北市松山區南京東路五段164號12號樓之1",
+      "sponsored": false,
+      "link": "https://www.facebook.com/111together/",
+      "extensions": [
+        "義祺地政士聯合事務所",
+        "5.0(3)",
+        "法律服務",
+        "南京東路五段164號12號樓之1",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "rating": 5,
+      "reviews": 3,
+      "category": "法律服務",
+      "position": 19,
+      "page": 2,
+      "position_overall": 40
+    },
+    {
+      "title": "睿紳地政士事務所",
+      "data_cid": "14694868973244946147",
+      "data_id": "0x3442a9ded4a6a6c9:0xcbeea979732c96e3",
+      "gps_coordinates": {
+        "latitude": 25.0000493,
+        "longitude": 121.5085333
+      },
+      "address": "234新北市永和區中和路234號383號11樓",
+      "sponsored": false,
+      "extensions": [
+        "睿紳地政士事務所",
+        "4.5(6)",
+        "信託付款服務",
+        "中和路234號383號11樓",
+        "02 2926 7577",
+        "營業中 ⋅ 結束營業時間：21:00"
+      ],
+      "phone": "02 2926 7577",
+      "rating": 4.5,
+      "reviews": 6,
+      "category": "信託付款服務",
+      "position": 20,
+      "page": 2,
+      "position_overall": 41
+    },
+    {
+      "title": "李雷傑地政士事務所",
+      "data_cid": "16764824174567774811",
+      "data_id": "0x3442a96c2b463829:0xe8a89ec34efe5a5b",
+      "gps_coordinates": {
+        "latitude": 25.050223499999998,
+        "longitude": 121.51959099999998
+      },
+      "address": "103台北市大同區長安西路66號9樓",
+      "sponsored": false,
+      "link": "http://www.rajlaw.com.tw/",
+      "extensions": [
+        "李雷傑地政士事務所",
+        "沒有評論",
+        "土地註冊處",
+        "長安西路66號9樓",
+        "02 2559 6908"
+      ],
+      "phone": "02 2559 6908",
+      "position": 21,
+      "page": 2,
+      "position_overall": 42
+    },
+    {
+      "title": "信銓地政士事務所-陳崧銓代書",
+      "data_cid": "17314515952585925149",
+      "gps_coordinates": {
+        "latitude": 25.010539,
+        "longitude": 121.51475800000001
+      },
+      "address": "永和區, 新北市",
+      "sponsored": false,
+      "link": "https://www.google.com.tw/aclk?sa=l&ai=DChcSEwiD4dqywdj9AhXWldUKHWcwAAwYABAAGgJ3cw&sig=AOD64_3fRnuY2NGk1owCrD1okTyJlpwDiA&q=&ctype=99&ved=2ahUKEwiS69Oywdj9AhXZTKQEHZvHDPg4KBCErAF6BAgEEBU&adurl=",
+      "extensions": [
+        "信銓地政士事務所-陳崧銓代書",
+        "5.0(637)",
+        "房地產諮詢公司",
+        "永和區, 新北市",
+        "0930 986 452",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "0930 986 452",
+      "rating": 5,
+      "reviews": 637,
+      "category": "房地產諮詢公司",
+      "position": 1,
+      "page": 3,
+      "position_overall": 43
+    },
+    {
+      "title": "冠亨地政士代書事務所-繼承贈與-買賣信託節稅規劃",
+      "data_cid": "12912148875235070995",
+      "data_id": "0x3442a95edce6b3f9:0xb3312afd93589413",
+      "gps_coordinates": {
+        "latitude": 25.0590828,
+        "longitude": 121.5334654
+      },
+      "address": "104台北市中山區松江路237號7樓",
+      "sponsored": false,
+      "link": "https://landtw.com/",
+      "extensions": [
+        "冠亨地政士代書事務所-繼承贈與-買賣信託節稅規劃",
+        "5.0(50)",
+        "地產公司",
+        "松江路237號7樓",
+        "02 2503 3377",
+        "營業中 ⋅ 結束營業時間：18:30",
+        "門市服務"
+      ],
+      "phone": "02 2503 3377",
+      "rating": 5,
+      "reviews": 50,
+      "category": "地產公司",
+      "position": 2,
+      "page": 3,
+      "position_overall": 44
+    },
+    {
+      "title": "鄔孟衛地政士事務所—板橋代書｜板橋地政士｜諮詢｜買賣｜贈與｜繼承｜遺囑｜信託",
+      "data_cid": "14750599435700901425",
+      "data_id": "0x8e4a5fdc0e9a5fc1:0xccb4a808e5079631",
+      "gps_coordinates": {
+        "latitude": 25.007274199999998,
+        "longitude": 121.46342380000002
+      },
+      "address": "220新北市板橋區實踐路30號三樓",
+      "sponsored": false,
+      "link": "https://www.wuproland.com/",
+      "extensions": [
+        "鄔孟衛地政士事務所—板橋代書｜板橋地政士｜諮詢｜買賣｜贈與｜繼承｜遺囑｜信託",
+        "5.0(39)",
+        "土地註冊處",
+        "實踐路30號三樓",
+        "0955 606 421",
+        "營業中 ⋅ 結束營業時間：20:00",
+        "門市服務",
+        "線上預約服務"
+      ],
+      "phone": "0955 606 421",
+      "rating": 5,
+      "reviews": 39,
+      "category": "土地註冊處",
+      "position": 3,
+      "page": 3,
+      "position_overall": 45
+    },
+    {
+      "title": "李佳芬地政士事務所",
+      "data_cid": "17659760890963199688",
+      "data_id": "0x3442a8e6ee9f62c5:0xf51412f7043286c8",
+      "gps_coordinates": {
+        "latitude": 25.0626034,
+        "longitude": 121.49953509999999
+      },
+      "address": "24142新北市三重區重新路二段14號2樓之2",
+      "sponsored": false,
+      "link": "https://www.leeshome.com.tw/",
+      "extensions": [
+        "李佳芬地政士事務所",
+        "2.6(7)",
+        "信託付款服務",
+        "重新路二段14號2樓之2",
+        "02 2972 1000",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 2972 1000",
+      "rating": 2.6,
+      "reviews": 7,
+      "category": "信託付款服務",
+      "position": 4,
+      "page": 3,
+      "position_overall": 46
+    },
+    {
+      "title": "仲信地政士事務所",
+      "data_cid": "7494587910167801872",
+      "data_id": "0x3442a95e5dce9437:0x68021fff0b7d3010",
+      "gps_coordinates": {
+        "latitude": 25.057298499999998,
+        "longitude": 121.53281150000001
+      },
+      "address": "10491台北市中山區松江路200號",
+      "sponsored": false,
+      "extensions": [
+        "仲信地政士事務所",
+        "沒有評論",
+        "土地註冊處",
+        "松江路200號",
+        "02 2531 3010"
+      ],
+      "phone": "02 2531 3010",
+      "position": 5,
+      "page": 3,
+      "position_overall": 47
+    },
+    {
+      "title": "徐大地政士事務所",
+      "data_cid": "7210389304878808947",
+      "data_id": "0x3442a98c6b175e8f:0x641072ded993bf73",
+      "gps_coordinates": {
+        "latitude": 25.0477039,
+        "longitude": 121.532705
+      },
+      "address": "104台北市中山區松江路42號7樓之9",
+      "sponsored": false,
+      "link": "https://wantloan168.mymailer.com.tw/",
+      "extensions": [
+        "徐大地政士事務所",
+        "沒有評論",
+        "土地註冊處",
+        "松江路42號7樓之9",
+        "02 2568 3848",
+        "營業中 ⋅ 結束營業時間：20:00"
+      ],
+      "phone": "02 2568 3848",
+      "position": 6,
+      "page": 3,
+      "position_overall": 48
+    },
+    {
+      "title": "隆安地政士事務所(林代書)-南機場 房地過戶 抵押貸款 節稅規劃 繼承贈與",
+      "data_cid": "4324071426783561252",
+      "data_id": "0x3442a9f92f64e925:0x3c02300d80d9c624",
+      "gps_coordinates": {
+        "latitude": 25.0281948,
+        "longitude": 121.5059105
+      },
+      "address": "100台北市中正區中華路二段313巷1號",
+      "sponsored": false,
+      "link": "https://property-registry-581.business.site/?utm_source=gmb&utm_medium=referral",
+      "extensions": [
+        "隆安地政士事務所(林代書)-南機場 房地過戶 抵押貸款 節稅規劃 繼承贈與",
+        "5.0(11)",
+        "土地註冊處",
+        "中華路二段313巷1號",
+        "0975 000 152",
+        "即將打烊 ⋅ 17:30",
+        "門市服務",
+        "線上預約服務"
+      ],
+      "phone": "0975 000 152",
+      "rating": 5,
+      "reviews": 11,
+      "category": "土地註冊處",
+      "position": 7,
+      "page": 3,
+      "position_overall": 49
+    },
+    {
+      "title": "陳鴻文地政士事務所",
+      "data_cid": "16885808502998601713",
+      "data_id": "0x3442abe72b87d6c9:0xea56715e5e808ff1",
+      "gps_coordinates": {
+        "latitude": 25.054970599999997,
+        "longitude": 121.5429473
+      },
+      "address": "10491台北市中山區遼寧街209巷22號",
+      "sponsored": false,
+      "extensions": [
+        "陳鴻文地政士事務所",
+        "沒有評論",
+        "土地註冊處",
+        "遼寧街209巷22號",
+        "02 2501 1330",
+        "營業中"
+      ],
+      "phone": "02 2501 1330",
+      "position": 8,
+      "page": 3,
+      "position_overall": 50
+    },
+    {
+      "title": "樂家地政士聯合事務所",
+      "data_cid": "12889898173152945264",
+      "data_id": "0x3442abaee230af13:0xb2e21e1849bce470",
+      "gps_coordinates": {
+        "latitude": 25.0519742,
+        "longitude": 121.5495307
+      },
+      "address": "105台北市松山區南京東路四段1號4樓G室",
+      "sponsored": false,
+      "link": "https://www.lovehome.com.tw/",
+      "extensions": [
+        "樂家地政士聯合事務所",
+        "沒有評論",
+        "土地註冊處",
+        "南京東路四段1號4樓G室",
+        "02 7700 3949",
+        "即將打烊 ⋅ 17:30"
+      ],
+      "phone": "02 7700 3949",
+      "position": 9,
+      "page": 3,
+      "position_overall": 51
+    },
+    {
+      "title": "晟信地政士聯合事務所",
+      "data_cid": "13742677566981924632",
+      "data_id": "0x3442ab94de934eed:0xbeb7cc6f72afe718",
+      "gps_coordinates": {
+        "latitude": 25.0512618,
+        "longitude": 121.5609755
+      },
+      "address": "105台北市松山區南京東路五段70號5號樓之1",
+      "sponsored": false,
+      "extensions": [
+        "晟信地政士聯合事務所",
+        "5.0(1)",
+        "信託付款服務",
+        "南京東路五段70號5號樓之1",
+        "02 2756 3311"
+      ],
+      "phone": "02 2756 3311",
+      "rating": 5,
+      "reviews": 1,
+      "category": "信託付款服務",
+      "position": 10,
+      "page": 3,
+      "position_overall": 52
+    },
+    {
+      "title": "恒鼎地政士事務所",
+      "data_cid": "3891510360715463265",
+      "data_id": "0x3442a9716ad8389f:0x36016c0e12328a61",
+      "gps_coordinates": {
+        "latitude": 25.0664749,
+        "longitude": 121.61455850000002
+      },
+      "address": "11484台北市內湖區安康路416號",
+      "sponsored": false,
+      "link": "https://www.tsaidink.tw/",
+      "extensions": [
+        "恒鼎地政士事務所",
+        "5.0(1)",
+        "土地註冊處",
+        "安康路416號",
+        "02 2630 5126",
+        "營業中 ⋅ 結束營業時間：18:00",
+        "線上預約服務"
+      ],
+      "phone": "02 2630 5126",
+      "rating": 5,
+      "reviews": 1,
+      "category": "土地註冊處",
+      "position": 11,
+      "page": 3,
+      "position_overall": 53
+    },
+    {
+      "title": "揚信地政士事務所",
+      "data_cid": "7629197870656776840",
+      "data_id": "0x3442a9c358a2bba7:0x69e05b0ac9a9ea88",
+      "gps_coordinates": {
+        "latitude": 25.008691,
+        "longitude": 121.5086398
+      },
+      "address": "234新北市永和區中山路一段208號 3",
+      "sponsored": false,
+      "link": "https://sites.google.com/view/ysoffice208/index",
+      "extensions": [
+        "揚信地政士事務所",
+        "5.0(7)",
+        "土地註冊處",
+        "3, No. 208號中山路一段",
+        "02 2929 2069",
+        "營業中 ⋅ 結束營業時間：19:00"
+      ],
+      "phone": "02 2929 2069",
+      "rating": 5,
+      "reviews": 7,
+      "category": "土地註冊處",
+      "position": 12,
+      "page": 3,
+      "position_overall": 54
+    },
+    {
+      "title": "江寶地政士聯合事務所(原高宗枝地政事務所)",
+      "data_cid": "4308555301150672936",
+      "data_id": "0x3442aa70c46b1783:0x3bcb1037fc364828",
+      "gps_coordinates": {
+        "latitude": 24.9889996,
+        "longitude": 121.5693936
+      },
+      "address": "116台北市文山區開元街20號",
+      "sponsored": false,
+      "extensions": [
+        "江寶地政士聯合事務所(原高宗枝地政事務所)",
+        "5.0(4)",
+        "土地註冊處",
+        "開元街20號",
+        "02 2939 3769",
+        "即將打烊 ⋅ 17:00"
+      ],
+      "phone": "02 2939 3769",
+      "rating": 5,
+      "reviews": 4,
+      "category": "土地註冊處",
+      "position": 13,
+      "page": 3,
+      "position_overall": 55
+    },
+    {
+      "title": "蘆洲正業地政士聯合事務所",
+      "data_cid": "6800170562919862084",
+      "data_id": "0x3442a8c87b0b7c71:0x5e5f0f191ee80f44",
+      "gps_coordinates": {
+        "latitude": 25.0807368,
+        "longitude": 121.47081920000001
+      },
+      "address": "247新北市蘆洲區中山二路193號",
+      "sponsored": false,
+      "extensions": [
+        "蘆洲正業地政士聯合事務所",
+        "4.4(14)",
+        "土地註冊處",
+        "中山二路193號",
+        "02 2289 9000",
+        "即將打烊 ⋅ 17:00"
+      ],
+      "phone": "02 2289 9000",
+      "rating": 4.4,
+      "reviews": 14,
+      "category": "土地註冊處",
+      "position": 14,
+      "page": 3,
+      "position_overall": 56
+    },
+    {
+      "title": "玉銓地政士事務所",
+      "data_cid": "16323111687262882258",
+      "data_id": "0x3442a98667f0651b:0xe28757989454c9d2",
+      "gps_coordinates": {
+        "latitude": 24.999858300000003,
+        "longitude": 121.5079756
+      },
+      "address": "234新北市永和區中和路345號三樓之3",
+      "sponsored": false,
+      "extensions": [
+        "玉銓地政士事務所",
+        "5.0(2)",
+        "土地註冊處",
+        "中和路345號三樓之3",
+        "02 8660 8633",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 8660 8633",
+      "rating": 5,
+      "reviews": 2,
+      "category": "土地註冊處",
+      "position": 15,
+      "page": 3,
+      "position_overall": 57
+    },
+    {
+      "title": "建國地政士事務所-劉坤圖: Line ID:andy2456",
+      "data_cid": "17384297579158365349",
+      "data_id": "0x3442a9629981ccd5:0xf1416e8ad36ae4a5",
+      "gps_coordinates": {
+        "latitude": 25.043169,
+        "longitude": 121.52893979999999
+      },
+      "address": "100台北市中正區忠孝東路二段80號3樓",
+      "sponsored": false,
+      "extensions": [
+        "建國地政士事務所-劉坤圖: Line ID:andy2456",
+        "5.0(2)",
+        "法律服務",
+        "忠孝東路二段80號3樓",
+        "0932 751 222",
+        "即將打烊 ⋅ 17:30"
+      ],
+      "phone": "0932 751 222",
+      "rating": 5,
+      "reviews": 2,
+      "category": "法律服務",
+      "position": 16,
+      "page": 3,
+      "position_overall": 58
+    },
+    {
+      "title": "永佳地政士事務所",
+      "data_cid": "11663426405386904169",
+      "data_id": "0x3442a95aeba3a031:0xa1dcd0852cff6269",
+      "gps_coordinates": {
+        "latitude": 25.0653491,
+        "longitude": 121.525296
+      },
+      "address": "10491台北市中山區雙城街19巷22號",
+      "sponsored": false,
+      "extensions": [
+        "永佳地政士事務所",
+        "沒有評論",
+        "土地註冊處",
+        "雙城街19巷22號",
+        "02 2585 2100",
+        "即將打烊 ⋅ 17:30"
+      ],
+      "phone": "02 2585 2100",
+      "position": 17,
+      "page": 3,
+      "position_overall": 59
+    },
+    {
+      "title": "書瑋地政士事務所",
+      "data_cid": "16452540104075527770",
+      "data_id": "0x3442a904bffa3907:0xe4532a0e2c4a465a",
+      "gps_coordinates": {
+        "latitude": 25.066596399999998,
+        "longitude": 121.53418109999998
+      },
+      "address": "10491台北市中山區建國北路三段94號三樓A302室",
+      "sponsored": false,
+      "link": "https://www.facebook.com/goodfunhome?mibextid=LQQJ4d",
+      "extensions": [
+        "書瑋地政士事務所",
+        "沒有評論",
+        "地產公司",
+        "建國北路三段94號三樓A302室",
+        "0955 872 241",
+        "即將打烊 ⋅ 17:00"
+      ],
+      "phone": "0955 872 241",
+      "position": 18,
+      "page": 3,
+      "position_overall": 60
+    },
+    {
+      "title": "信銓地政士事務所-陳崧銓代書",
+      "data_cid": "17314515952585925149",
+      "data_id": "0x3468027aede320ff:0xf0498485cbb7e21d",
+      "gps_coordinates": {
+        "latitude": 25.0105393,
+        "longitude": 121.51475789999999
+      },
+      "address": "234新北市永和區永和路二段32號7樓",
+      "sponsored": false,
+      "link": "https://sinchuanland.blogspot.com/",
+      "extensions": [
+        "信銓地政士事務所-陳崧銓代書",
+        "5.0(637)",
+        "房地產顧問",
+        "永和路二段32號7樓",
+        "02 2923 3662",
+        "營業中 ⋅ 結束營業時間：18:00",
+        "門市服務",
+        "線上預約服務"
+      ],
+      "phone": "02 2923 3662",
+      "rating": 5,
+      "reviews": 637,
+      "category": "房地產顧問",
+      "position": 19,
+      "page": 3,
+      "position_overall": 61
+    },
+    {
+      "title": "永達地政士事務所",
+      "data_cid": "15681435958935653236",
+      "data_id": "0x3442a99ad19311e1:0xd99fa6ebbc658b74",
+      "gps_coordinates": {
+        "latitude": 25.02706,
+        "longitude": 121.52516500000002
+      },
+      "address": "106台北市大安區和平東路一段77號10樓",
+      "sponsored": false,
+      "extensions": [
+        "永達地政士事務所",
+        "沒有評論",
+        "土地註冊處",
+        "和平東路一段77號10樓",
+        "02 2397 9736"
+      ],
+      "phone": "02 2397 9736",
+      "position": 20,
+      "page": 3,
+      "position_overall": 62
+    },
+    {
+      "title": "信一地政士事務所",
+      "data_cid": "17426950570692485643",
+      "data_id": "0x3442a9274d7808d1:0xf1d8f7364c6aa20b",
+      "gps_coordinates": {
+        "latitude": 25.0509555,
+        "longitude": 121.52937399999999
+      },
+      "address": "104台北市中山區吉林路22巷6之1號2樓",
+      "sponsored": false,
+      "extensions": [
+        "信一地政士事務所",
+        "沒有評論",
+        "土地註冊處",
+        "吉林路22巷6之1號2樓",
+        "02 2581 8187",
+        "即將打烊 ⋅ 17:30"
+      ],
+      "phone": "02 2581 8187",
+      "position": 21,
+      "page": 3,
+      "position_overall": 63
+    },
+    {
+      "title": "永立代書地政士事務所",
+      "data_cid": "11368369967457876544",
+      "data_id": "0x3442a91c354e8297:0x9dc49040d18bba40",
+      "gps_coordinates": {
+        "latitude": 25.0001912,
+        "longitude": 121.5085448
+      },
+      "address": "234新北市永和區中和路385號2樓",
+      "sponsored": false,
+      "extensions": [
+        "永立代書地政士事務所",
+        "沒有評論",
+        "土地註冊處",
+        "新北市永和區",
+        "02 2928 0233",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 2928 0233",
+      "position": 1,
+      "page": 4,
+      "position_overall": 64
+    },
+    {
+      "title": "超群地政士事務所",
+      "data_cid": "17621656253549966538",
+      "data_id": "0x3442a98fd00e4657:0xf48cb2ffc2e2f4ca",
+      "gps_coordinates": {
+        "latitude": 25.0227506,
+        "longitude": 121.5262729
+      },
+      "address": "10646台北市大安區羅斯福路三段81號 2號樓之2",
+      "sponsored": false,
+      "link": "https://www.23660912.com/about-us.html",
+      "extensions": [
+        "超群地政士事務所",
+        "4.7(12)",
+        "地產公司",
+        "台北市大安區",
+        "02 2366 0912",
+        "即將打烊 ⋅ 17:00",
+        "門市服務",
+        "線上預約服務"
+      ],
+      "phone": "02 2366 0912",
+      "rating": 4.7,
+      "reviews": 12,
+      "category": "地產公司",
+      "position": 2,
+      "page": 4,
+      "position_overall": 65
+    },
+    {
+      "title": "東誠地政士事務所",
+      "data_cid": "3676919978138061316",
+      "data_id": "0x3442ab94e6a59ae1:0x33070b3d2c74ca04",
+      "gps_coordinates": {
+        "latitude": 25.051254999999998,
+        "longitude": 121.56163699999998
+      },
+      "address": "105台北市松山區南京東路五段92號7樓",
+      "sponsored": false,
+      "extensions": [
+        "東誠地政士事務所",
+        "沒有評論",
+        "信託付款服務",
+        "台北市松山區",
+        "02 2761 3966",
+        "即將打烊 ⋅ 17:30"
+      ],
+      "phone": "02 2761 3966",
+      "position": 3,
+      "page": 4,
+      "position_overall": 66
+    },
+    {
+      "title": "豐年地政士事務所",
+      "data_cid": "12324792569041336562",
+      "data_id": "0x3442abe75ea910cb:0xab0a758ac01538f2",
+      "gps_coordinates": {
+        "latitude": 25.0527439,
+        "longitude": 121.5438363
+      },
+      "address": "10491台北市中山區復興北路150號11號樓之3",
+      "sponsored": false,
+      "extensions": [
+        "豐年地政士事務所",
+        "沒有評論",
+        "土地註冊處",
+        "台北市中山區",
+        "02 2341 9688"
+      ],
+      "phone": "02 2341 9688",
+      "position": 4,
+      "page": 4,
+      "position_overall": 67
+    },
+    {
+      "title": "洪士揚地政士事務所",
+      "data_cid": "4918656868224395928",
+      "data_id": "0x3442a82374c32043:0x4442945c8a8cea98",
+      "gps_coordinates": {
+        "latitude": 25.0143707,
+        "longitude": 121.47056219999997
+      },
+      "address": "220新北市板橋區中山路一段293之4號8F",
+      "sponsored": false,
+      "extensions": [
+        "洪士揚地政士事務所",
+        "5.0(1)",
+        "土地註冊處",
+        "新北市板橋區",
+        "02 2961 8835",
+        "24 小時營業"
+      ],
+      "phone": "02 2961 8835",
+      "rating": 5,
+      "reviews": 1,
+      "category": "土地註冊處",
+      "position": 5,
+      "page": 4,
+      "position_overall": 68
+    },
+    {
+      "title": "秉昇地政士事務所",
+      "data_cid": "11421773925702969834",
+      "data_id": "0x3442ac04268cad39:0x9e824adeca5829ea",
+      "gps_coordinates": {
+        "latitude": 25.079041099999998,
+        "longitude": 121.5446695
+      },
+      "address": "10491台北市中山區北安路458巷21號4樓",
+      "sponsored": false,
+      "extensions": [
+        "秉昇地政士事務所",
+        "沒有評論",
+        "土地註冊處",
+        "台北市中山區",
+        "02 2532 4231",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 2532 4231",
+      "position": 6,
+      "page": 4,
+      "position_overall": 69
+    },
+    {
+      "title": "謝競地政士事務所",
+      "data_cid": "6607366385622309994",
+      "data_id": "0x3442af5c7e8ff49d:0x5bb214b86bdfdc6a",
+      "gps_coordinates": {
+        "latitude": 25.137943699999997,
+        "longitude": 121.50262649999999
+      },
+      "address": "112台北市北投區中和街35號2樓",
+      "sponsored": false,
+      "link": "https://property-registry-554.business.site/?utm_source=gmb&utm_medium=referral",
+      "extensions": [
+        "謝競地政士事務所",
+        "5.0(2)",
+        "土地註冊處",
+        "台北市北投區",
+        "0973 097 087",
+        "24 小時營業"
+      ],
+      "phone": "0973 097 087",
+      "rating": 5,
+      "reviews": 2,
+      "category": "土地註冊處",
+      "position": 7,
+      "page": 4,
+      "position_overall": 70
+    },
+    {
+      "title": "全信地政士事務所(執業所)",
+      "data_cid": "13181113337428447372",
+      "data_id": "0x3442a9b6dc0c7573:0xb6ecb8be6d96108c",
+      "gps_coordinates": {
+        "latitude": 25.0308001,
+        "longitude": 121.4958942
+      },
+      "address": "108台北市萬華區西園路二段140巷17之1號",
+      "sponsored": false,
+      "extensions": [
+        "全信地政士事務所(執業所)",
+        "3.0(2)",
+        "信託付款服務",
+        "台北市萬華區",
+        "02 2307 6541",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 2307 6541",
+      "rating": 3,
+      "reviews": 2,
+      "category": "信託付款服務",
+      "position": 8,
+      "page": 4,
+      "position_overall": 71
+    },
+    {
+      "title": "張莉莉地政士事務所",
+      "data_cid": "16453969129689983028",
+      "data_id": "0x3442abdd85079765:0xe4583dbf206a2834",
+      "gps_coordinates": {
+        "latitude": 25.0516202,
+        "longitude": 121.5449927
+      },
+      "address": "105台北市松山區南京東路三段338 巷 號 1",
+      "sponsored": false,
+      "extensions": [
+        "張莉莉地政士事務所",
+        "沒有評論",
+        "信託付款服務",
+        "台北市松山區",
+        "02 8771 8811",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 8771 8811",
+      "position": 9,
+      "page": 4,
+      "position_overall": 72
+    },
+    {
+      "title": "卓群地政士事務所",
+      "data_cid": "13651932944622938813",
+      "data_id": "0x3442abe384154171:0xbd7568ae9db3eabd",
+      "gps_coordinates": {
+        "latitude": 25.0603208,
+        "longitude": 121.5422423
+      },
+      "address": "10477台北市中山區錦州街423號7樓",
+      "sponsored": false,
+      "extensions": [
+        "卓群地政士事務所",
+        "沒有評論",
+        "土地註冊處",
+        "台北市中山區",
+        "02 2505 5000",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 2505 5000",
+      "position": 10,
+      "page": 4,
+      "position_overall": 73
+    },
+    {
+      "title": "誠石地政士事務所",
+      "data_cid": "9040156407710030822",
+      "data_id": "0x3442ab35f19b7673:0x7d75165b23871be6",
+      "gps_coordinates": {
+        "latitude": 25.0341654,
+        "longitude": 121.55997920000001
+      },
+      "address": "110台北市信義區基隆路一段400號9F-5",
+      "sponsored": false,
+      "extensions": [
+        "誠石地政士事務所",
+        "沒有評論",
+        "信託付款服務",
+        "台北市信義區",
+        "02 8786 7070",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 8786 7070",
+      "position": 11,
+      "page": 4,
+      "position_overall": 74
+    },
+    {
+      "title": "台北地政士事務所",
+      "data_cid": "12884642107310350997",
+      "data_id": "0x3442abd5dafc10cb:0xb2cf71bb18462295",
+      "gps_coordinates": {
+        "latitude": 25.0371156,
+        "longitude": 121.53898099999999
+      },
+      "address": "106大安區仁愛路三段118巷12弄18號",
+      "sponsored": false,
+      "extensions": [
+        "台北地政士事務所",
+        "沒有評論",
+        "大安區",
+        "02 2706 2906"
+      ],
+      "phone": "02 2706 2906",
+      "position": 12,
+      "page": 4,
+      "position_overall": 75
+    },
+    {
+      "title": "宏有地政士事務所",
+      "data_cid": "1594786881097748576",
+      "data_id": "0x3442ac6f157e5897:0x1621d2380448d060",
+      "gps_coordinates": {
+        "latitude": 25.0821346,
+        "longitude": 121.5696564
+      },
+      "address": "內湖區內湖路一段114號371號3樓",
+      "sponsored": false,
+      "extensions": [
+        "宏有地政士事務所",
+        "5.0(1)",
+        "土地註冊處",
+        "內湖區",
+        "02 2799 6882",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 2799 6882",
+      "rating": 5,
+      "reviews": 1,
+      "category": "土地註冊處",
+      "position": 13,
+      "page": 4,
+      "position_overall": 76
+    },
+    {
+      "title": "林文勇地政士事務所",
+      "data_cid": "14515619925079547241",
+      "data_id": "0x3442aa775f4c8b77:0xc971d76a30f2dd69",
+      "gps_coordinates": {
+        "latitude": 24.987091,
+        "longitude": 121.57058119999999
+      },
+      "address": "116台北市文山區木新路二段12號2樓",
+      "sponsored": false,
+      "extensions": [
+        "林文勇地政士事務所",
+        "4.6(10)",
+        "土地註冊處",
+        "台北市文山區",
+        "02 2937 5801",
+        "即將打烊 ⋅ 17:30"
+      ],
+      "phone": "02 2937 5801",
+      "rating": 4.6,
+      "reviews": 10,
+      "category": "土地註冊處",
+      "position": 14,
+      "page": 4,
+      "position_overall": 77
+    },
+    {
+      "title": "公誠(代書)地政士事務所",
+      "data_cid": "5868667761656018597",
+      "data_id": "0x34680272c2298151:0x5171b23c564b36a5",
+      "gps_coordinates": {
+        "latitude": 24.973078899999997,
+        "longitude": 121.53444909999997
+      },
+      "address": "231新北市新店區三民路96-1號停車場：新店高中停車場2樓",
+      "sponsored": false,
+      "link": "http://blog.udn.com/dary0718",
+      "extensions": [
+        "公誠(代書)地政士事務所",
+        "4.4(7)",
+        "地產公司",
+        "新北市新店區",
+        "0920 162 160",
+        "即將打烊 ⋅ 17:00",
+        "門市服務",
+        "線上預約服務"
+      ],
+      "phone": "0920 162 160",
+      "rating": 4.4,
+      "reviews": 7,
+      "category": "地產公司",
+      "position": 15,
+      "page": 4,
+      "position_overall": 78
+    },
+    {
+      "title": "皇富地政士事務所",
+      "data_cid": "356329399603547403",
+      "data_id": "0x3442aa1d0e34aef5:0x4f1efb37665cd0b",
+      "gps_coordinates": {
+        "latitude": 25.002569,
+        "longitude": 121.53896100000001
+      },
+      "address": "116台北市文山區羅斯福路五段195號3樓",
+      "sponsored": false,
+      "extensions": [
+        "皇富地政士事務所",
+        "沒有評論",
+        "專業服務",
+        "台北市文山區",
+        "02 2931 7013"
+      ],
+      "phone": "02 2931 7013",
+      "position": 16,
+      "page": 4,
+      "position_overall": 79
+    },
+    {
+      "title": "陳麗華地政士事務所",
+      "data_cid": "11156021532840217736",
+      "data_id": "0x3442aa13e2e97663:0x9ad2267a1b8ccc88",
+      "gps_coordinates": {
+        "latitude": 25.001469999999998,
+        "longitude": 121.55424190000001
+      },
+      "address": "116台北市文山區辛亥路四段252巷3號",
+      "sponsored": false,
+      "extensions": [
+        "陳麗華地政士事務所",
+        "5.0(3)",
+        "信託付款服務",
+        "台北市文山區",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "rating": 5,
+      "reviews": 3,
+      "category": "信託付款服務",
+      "position": 17,
+      "page": 4,
+      "position_overall": 80
+    },
+    {
+      "title": "力行地政士事務所 - 不動產各項產權登記",
+      "data_cid": "6762065297673429516",
+      "data_id": "0x3442abd2e1dac18d:0x5dd7ae8fafd2220c",
+      "gps_coordinates": {
+        "latitude": 25.047836999999998,
+        "longitude": 121.54154199999999
+      },
+      "address": "104台北市中山區龍江路21巷19號2樓",
+      "sponsored": false,
+      "link": "https://www.facebook.com/lh27132480/",
+      "extensions": [
+        "力行地政士事務所 - 不動產各項產權登記",
+        "5.0(2)",
+        "地產公司",
+        "台北市中山區",
+        "02 2713 2480",
+        "即將打烊 ⋅ 17:30",
+        "門市服務",
+        "線上預約服務"
+      ],
+      "phone": "02 2713 2480",
+      "rating": 5,
+      "reviews": 2,
+      "category": "地產公司",
+      "position": 18,
+      "page": 4,
+      "position_overall": 81
+    },
+    {
+      "title": "鴻鈞地政士事務所 ( 代書 )",
+      "data_cid": "15899068928709536373",
+      "data_id": "0x3442a8e4b2baca3f:0xdca4d6f42b2eaa75",
+      "gps_coordinates": {
+        "latitude": 25.055249800000002,
+        "longitude": 121.4969439
+      },
+      "address": "241新北市三重區環河南路125號1樓",
+      "sponsored": false,
+      "link": "http://www.jiahui.com.tw/",
+      "extensions": [
+        "鴻鈞地政士事務所 ( 代書 )",
+        "4.2(5)",
+        "信託付款服務",
+        "新北市三重區",
+        "02 8972 0808",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 8972 0808",
+      "rating": 4.2,
+      "reviews": 5,
+      "category": "信託付款服務",
+      "position": 19,
+      "page": 4,
+      "position_overall": 82
+    },
+    {
+      "title": "得寶地政士事務所",
+      "data_cid": "985853294046862649",
+      "data_id": "0x3442aece32a75347:0xdae7459004fdd39",
+      "gps_coordinates": {
+        "latitude": 25.0910285,
+        "longitude": 121.50349000000001
+      },
+      "address": "111台北市士林區延平北路六段258巷58號",
+      "sponsored": false,
+      "extensions": [
+        "得寶地政士事務所",
+        "5.0(3)",
+        "土地註冊處",
+        "台北市士林區",
+        "02 2815 1863",
+        "即將打烊 ⋅ 17:30"
+      ],
+      "phone": "02 2815 1863",
+      "rating": 5,
+      "reviews": 3,
+      "category": "土地註冊處",
+      "position": 20,
+      "page": 4,
+      "position_overall": 83
+    },
+    {
+      "title": "信銓地政士事務所-陳崧銓代書",
+      "data_cid": "17314515952585925149",
+      "gps_coordinates": {
+        "latitude": 25.010539,
+        "longitude": 121.51475800000001
+      },
+      "address": "永和區, 新北市",
+      "sponsored": false,
+      "link": "https://www.google.com.tw/aclk?sa=l&ai=DChcSEwipyKW8wdj9AhXtkGgJHXCsB40YABAAGgJ3Zg&sig=AOD64_2VT9JUhqSAQqM_M7AJrBM1rpOsNw&q=&ctype=99&ved=2ahUKEwjdjp-8wdj9AhUcRaQEHYp6AxU4UBCErAF6BAgEEBU&adurl=",
+      "extensions": [
+        "信銓地政士事務所-陳崧銓代書",
+        "5.0(637)",
+        "房地產諮詢公司",
+        "永和區, 新北市",
+        "0930 986 452",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "0930 986 452",
+      "rating": 5,
+      "reviews": 637,
+      "category": "房地產諮詢公司",
+      "position": 1,
+      "page": 5,
+      "position_overall": 84
+    },
+    {
+      "title": "信宏地政士事務所",
+      "data_cid": "3950001955456305537",
+      "data_id": "0x3442a943a9868f3b:0x36d139d9b9124981",
+      "gps_coordinates": {
+        "latitude": 25.0605036,
+        "longitude": 121.52268199999999
+      },
+      "address": "10491台北市中山區中山北路二段108號8樓",
+      "sponsored": false,
+      "extensions": [
+        "信宏地政士事務所",
+        "1.0(1)",
+        "信託付款服務",
+        "台北市中山區",
+        "02 2560 3754"
+      ],
+      "phone": "02 2560 3754",
+      "rating": 1,
+      "reviews": 1,
+      "category": "信託付款服務",
+      "position": 2,
+      "page": 5,
+      "position_overall": 85
+    },
+    {
+      "title": "陽明地政士事務所 板橋/陳欣代書/地政士",
+      "data_cid": "17614427759375325026",
+      "data_id": "0x3442a81375c7e815:0xf47304b8cf589762",
+      "gps_coordinates": {
+        "latitude": 25.0182413,
+        "longitude": 121.46444029999999
+      },
+      "address": "220新北市板橋區文化路一段257號陽明街297-1號",
+      "sponsored": false,
+      "extensions": [
+        "陽明地政士事務所 板橋/陳欣代書/地政士",
+        "4.4(7)",
+        "土地註冊處",
+        "新北市板橋區",
+        "02 2258 1499",
+        "營業中 ⋅ 結束營業時間：20:00"
+      ],
+      "phone": "02 2258 1499",
+      "rating": 4.4,
+      "reviews": 7,
+      "category": "土地註冊處",
+      "position": 3,
+      "page": 5,
+      "position_overall": 86
+    },
+    {
+      "title": "順捷地政士事務所",
+      "data_cid": "17735995341961536910",
+      "data_id": "0x3442a8c2af98a76f:0xf622e9cb4f99a58e",
+      "gps_coordinates": {
+        "latitude": 25.0681729,
+        "longitude": 121.47936500000002
+      },
+      "address": "241新北市三重區三民街275號",
+      "sponsored": false,
+      "extensions": [
+        "順捷地政士事務所",
+        "5.0(2)",
+        "土地註冊處",
+        "新北市三重區",
+        "02 2981 5272",
+        "即將打烊 ⋅ 17:30"
+      ],
+      "phone": "02 2981 5272",
+      "rating": 5,
+      "reviews": 2,
+      "category": "土地註冊處",
+      "position": 4,
+      "page": 5,
+      "position_overall": 87
+    },
+    {
+      "title": "創思陽光地政士事務所【原陳明泉地政士事務所】",
+      "data_cid": "15143751923153928133",
+      "data_id": "0x3442a9e72a6e6b43:0xd2296a239a3a7fc5",
+      "gps_coordinates": {
+        "latitude": 25.000656499999998,
+        "longitude": 121.51712069999999
+      },
+      "address": "234新北市永和區中正路283巷5弄1號",
+      "sponsored": false,
+      "extensions": [
+        "創思陽光地政士事務所【原陳明泉地政士事務所】",
+        "3.2(6)",
+        "房地產顧問",
+        "新北市永和區",
+        "02 2926 1529",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 2926 1529",
+      "rating": 3.2,
+      "reviews": 6,
+      "category": "房地產顧問",
+      "position": 5,
+      "page": 5,
+      "position_overall": 88
+    },
+    {
+      "title": "財產地政士事務所",
+      "data_cid": "15406604817812627631",
+      "data_id": "0x3442aa3a7de0cf63:0xd5cf4174408b20af",
+      "gps_coordinates": {
+        "latitude": 25.0184685,
+        "longitude": 121.55132210000001
+      },
+      "address": "106台北市大安區安居街124巷14號",
+      "sponsored": false,
+      "extensions": [
+        "財產地政士事務所",
+        "5.0(1)",
+        "專業服務",
+        "台北市大安區",
+        "02 2732 7506",
+        "即將打烊 ⋅ 17:00"
+      ],
+      "phone": "02 2732 7506",
+      "rating": 5,
+      "reviews": 1,
+      "category": "專業服務",
+      "position": 6,
+      "page": 5,
+      "position_overall": 89
+    },
+    {
+      "title": "遠東地政士事務所",
+      "data_cid": "5219605191106858136",
+      "data_id": "0x3442a9ad150332dd:0x486fc34443b58c98",
+      "gps_coordinates": {
+        "latitude": 25.034946299999998,
+        "longitude": 121.49381090000001
+      },
+      "address": "108台北市萬華區環河南路二段170號",
+      "sponsored": false,
+      "link": "http://blog.udn.com/a3089732",
+      "extensions": [
+        "遠東地政士事務所",
+        "4.8(11)",
+        "房地產顧問",
+        "台北市萬華區",
+        "02 2304 0042"
+      ],
+      "phone": "02 2304 0042",
+      "rating": 4.8,
+      "reviews": 11,
+      "category": "房地產顧問",
+      "position": 7,
+      "page": 5,
+      "position_overall": 90
+    },
+    {
+      "title": "汐止地政士事務所",
+      "data_cid": "14024288224774908783",
+      "data_id": "0x345d534d953bfb57:0xc2a047d62966eb6f",
+      "gps_coordinates": {
+        "latitude": 25.064527,
+        "longitude": 121.632524
+      },
+      "address": "221汐止區中興路95號",
+      "sponsored": false,
+      "extensions": [
+        "汐止地政士事務所",
+        "4.5(12)",
+        "地產",
+        "汐止區",
+        "02 2692 3670",
+        "營業中"
+      ],
+      "phone": "02 2692 3670",
+      "rating": 4.5,
+      "reviews": 12,
+      "category": "地產",
+      "position": 8,
+      "page": 5,
+      "position_overall": 91
+    },
+    {
+      "title": "太和地政士事務所",
+      "data_cid": "9372343312806226325",
+      "data_id": "0x34680305c385c6db:0x8211409610d2a995",
+      "gps_coordinates": {
+        "latitude": 24.996297,
+        "longitude": 121.46204999999999
+      },
+      "address": "220新北市板橋區國慶路163號5樓",
+      "sponsored": false,
+      "extensions": [
+        "太和地政士事務所",
+        "5.0(3)",
+        "土地註冊處",
+        "新北市板橋區",
+        "02 2953 1212",
+        "24 小時營業"
+      ],
+      "phone": "02 2953 1212",
+      "rating": 5,
+      "reviews": 3,
+      "category": "土地註冊處",
+      "position": 9,
+      "page": 5,
+      "position_overall": 92
+    },
+    {
+      "title": "環球地政士事務所",
+      "data_cid": "924750588165706765",
+      "data_id": "0x346801e04218b405:0xcd55fc2a973540d",
+      "gps_coordinates": {
+        "latitude": 24.9831351,
+        "longitude": 121.5591121
+      },
+      "address": "116台北市文山區忠順街一段10巷35弄10號",
+      "sponsored": false,
+      "extensions": [
+        "環球地政士事務所",
+        "5.0(2)",
+        "土地註冊處",
+        "台北市文山區",
+        "0952 663 096",
+        "營業中 ⋅ 結束營業時間：19:00"
+      ],
+      "phone": "0952 663 096",
+      "rating": 5,
+      "reviews": 2,
+      "category": "土地註冊處",
+      "position": 10,
+      "page": 5,
+      "position_overall": 93
+    },
+    {
+      "title": "方舟地政士事務所",
+      "data_cid": "14787846092195858867",
+      "data_id": "0x3442a9a8ed760835:0xcd38fbabe67b89b3",
+      "gps_coordinates": {
+        "latitude": 25.044424799999998,
+        "longitude": 121.5239152
+      },
+      "address": "100台北市中正區忠孝東路一段76號12號樓之1",
+      "sponsored": false,
+      "link": "https://www.facebook.com/pg/%E6%96%B9%E8%88%9F%E5%9C%B0%E6%94%BF%E5%A3%AB%E8%81%AF%E5%90%88%E4%BA%8B%E5%8B%99%E6%89%80-1484718914996450/about/?ref=page_internal",
+      "extensions": [
+        "方舟地政士事務所",
+        "沒有評論",
+        "法律服務",
+        "台北市中正區",
+        "02 2550 2650",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 2550 2650",
+      "position": 11,
+      "page": 5,
+      "position_overall": 94
+    },
+    {
+      "title": "永然地政士聯合事務所",
+      "data_cid": "17162970110426109643",
+      "data_id": "0x3442a9063e3b28c7:0xee2f1e61d29856cb",
+      "gps_coordinates": {
+        "latitude": 25.0289115,
+        "longitude": 121.5213572
+      },
+      "address": "100台北市中正區羅斯福路二段9號7樓",
+      "sponsored": false,
+      "extensions": [
+        "永然地政士聯合事務所",
+        "沒有評論",
+        "土地註冊處",
+        "台北市中正區",
+        "02 2395 6989",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 2395 6989",
+      "position": 12,
+      "page": 5,
+      "position_overall": 95
+    },
+    {
+      "title": "許保生地政士事務所",
+      "data_cid": "1561814292386632943",
+      "data_id": "0x3442a96399266b83:0x15acadd2f6d554ef",
+      "gps_coordinates": {
+        "latitude": 25.0475028,
+        "longitude": 121.5325337
+      },
+      "address": "10491台北市中山區松江路38巷2號3樓",
+      "sponsored": false,
+      "extensions": [
+        "許保生地政士事務所",
+        "5.0(1)",
+        "專業服務",
+        "台北市中山區",
+        "02 2511 0067"
+      ],
+      "phone": "02 2511 0067",
+      "rating": 5,
+      "reviews": 1,
+      "category": "專業服務",
+      "position": 13,
+      "page": 5,
+      "position_overall": 96
+    },
+    {
+      "title": "雙連地政士事務所",
+      "data_cid": "13549184687946957294",
+      "data_id": "0x3442a8d34f26b005:0xbc085fafe13d81ee",
+      "gps_coordinates": {
+        "latitude": 25.087061,
+        "longitude": 121.4846
+      },
+      "address": "241三重區三德街",
+      "sponsored": false,
+      "extensions": [
+        "雙連地政士事務所",
+        "沒有評論",
+        "土地註冊處",
+        "三重區",
+        "02 2857 9182"
+      ],
+      "phone": "02 2857 9182",
+      "position": 14,
+      "page": 5,
+      "position_overall": 97
+    },
+    {
+      "title": "法民地政士事務所",
+      "data_cid": "12910408119627807773",
+      "data_id": "0x3442a991c55d77d7:0xb32afbc853bbfc1d",
+      "gps_coordinates": {
+        "latitude": 25.021713199999997,
+        "longitude": 121.5248168
+      },
+      "address": "100台北市中正區汀州路二段313號2樓",
+      "sponsored": false,
+      "extensions": [
+        "法民地政士事務所",
+        "沒有評論",
+        "信託付款服務",
+        "台北市中正區",
+        "02 2368 2722"
+      ],
+      "phone": "02 2368 2722",
+      "position": 15,
+      "page": 5,
+      "position_overall": 98
+    },
+    {
+      "title": "地政士事務所",
+      "data_cid": "16753595996117545649",
+      "data_id": "0x3468018822a36019:0xe880bacb4afe32b1",
+      "gps_coordinates": {
+        "latitude": 24.9784225,
+        "longitude": 121.54011609999999
+      },
+      "address": "231新北市新店區民族路57號之3",
+      "sponsored": false,
+      "extensions": [
+        "地政士事務所",
+        "4.1(9)",
+        "專業服務",
+        "新北市新店區",
+        "02 2912 3954"
+      ],
+      "phone": "02 2912 3954",
+      "rating": 4.1,
+      "reviews": 9,
+      "category": "專業服務",
+      "position": 16,
+      "page": 5,
+      "position_overall": 99
+    },
+    {
+      "title": "尚揚地政士事務所",
+      "data_cid": "10966771570371330515",
+      "data_id": "0x3442a81d124b7487:0x9831cca388d601d3",
+      "gps_coordinates": {
+        "latitude": 25.0101762,
+        "longitude": 121.4591573
+      },
+      "address": "220新北市板橋區府後街4之2號二樓",
+      "sponsored": false,
+      "link": "https://sytrust.com.tw/",
+      "extensions": [
+        "尚揚地政士事務所",
+        "沒有評論",
+        "土地註冊處",
+        "新北市板橋區",
+        "02 2969 7599",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 2969 7599",
+      "position": 17,
+      "page": 5,
+      "position_overall": 100
+    },
+    {
+      "title": "吳俊毅地政士代書事務所大安通訊處",
+      "data_cid": "11435397830657148138",
+      "data_id": "0x3442a97fc5376c6d:0x9eb2b1bd599784ea",
+      "gps_coordinates": {
+        "latitude": 25.0348605,
+        "longitude": 121.5362466
+      },
+      "address": "106台北市大安區新生南路一段157巷36號",
+      "sponsored": false,
+      "link": "https://land-allograph-firm-76.business.site/",
+      "extensions": [
+        "吳俊毅地政士代書事務所大安通訊處",
+        "5.0(176)",
+        "信託付款服務",
+        "台北市大安區",
+        "0926 617 312",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "0926 617 312",
+      "rating": 5,
+      "reviews": 176,
+      "category": "信託付款服務",
+      "position": 18,
+      "page": 5,
+      "position_overall": 101
+    },
+    {
+      "title": "大眾地政士事務所",
+      "data_cid": "2996150624621758236",
+      "data_id": "0x3442aba5b0091c8b:0x2994771e6a25071c",
+      "gps_coordinates": {
+        "latitude": 25.0364988,
+        "longitude": 121.57488099999998
+      },
+      "address": "110台北市信義區松德路159號之2",
+      "sponsored": false,
+      "extensions": [
+        "大眾地政士事務所",
+        "1.0(1)",
+        "專業服務",
+        "台北市信義區",
+        "02 2939 2001"
+      ],
+      "phone": "02 2939 2001",
+      "rating": 1,
+      "reviews": 1,
+      "category": "專業服務",
+      "position": 19,
+      "page": 5,
+      "position_overall": 102
+    },
+    {
+      "title": "張郁典地政士事務所",
+      "data_cid": "12645506157141986353",
+      "data_id": "0x3442a9ef8fa8e5b9:0xaf7ddcd9e5768c31",
+      "gps_coordinates": {
+        "latitude": 25.004751199999998,
+        "longitude": 121.52355139999999
+      },
+      "address": "234新北市永和區永亨路107號2樓",
+      "sponsored": false,
+      "link": "https://www.facebook.com/profile.php?id=100063692096824",
+      "extensions": [
+        "張郁典地政士事務所",
+        "4.8(26)",
+        "地產公司",
+        "新北市永和區",
+        "02 2921 4744",
+        "即將打烊 ⋅ 17:30"
+      ],
+      "phone": "02 2921 4744",
+      "rating": 4.8,
+      "reviews": 26,
+      "category": "地產公司",
+      "position": 20,
+      "page": 5,
+      "position_overall": 103
+    },
+    {
+      "title": "宏運地政士事務所",
+      "data_cid": "18145670315158319851",
+      "data_id": "0x3442aed504e589fd:0xfbd25f03025cb2eb",
+      "gps_coordinates": {
+        "latitude": 25.0855954,
+        "longitude": 121.49548360000001
+      },
+      "address": "241新北市三重區進安街97號",
+      "sponsored": false,
+      "extensions": [
+        "宏運地政士事務所",
+        "沒有評論",
+        "土地註冊處",
+        "新北市三重區",
+        "02 2857 7733",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "phone": "02 2857 7733",
+      "position": 21,
+      "page": 5,
+      "position_overall": 104
+    }
+  ]
+}
